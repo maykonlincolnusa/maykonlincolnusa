@@ -6,10 +6,31 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-https://www.linkedin.com/in/maykon-lincoln-576a97332 -?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maykonlincoln)
-![Instagram](https://img.shields.io/badge/Instagram-@maykonlincoln-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/maykonlincoln)
-[![Website](https://img.shields.io/badge/Website-maykonlincoln.com-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://maykonlincoln.com)
-[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@maykonlincoln.com)
+[
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+
+](https://www.linkedin.com/in/maykon-lincoln-576a97332)
+[
+
+![Instagram](https://img.shields.io/badge/Instagram-@maykonlincoln-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+
+](https://instagram.com/maykonlincoln)
+[
+
+![Website](https://img.shields.io/badge/Site-maykonlincoln.com-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)
+
+](https://maykonlincoln.com)
+[
+
+![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
+
+](mailto:maykonlincolnmanager@gmail.com)
+[
+
+![WhatsApp](https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+
+](https://wa.me/5521975961920)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=maykonlincolnusa&color=00C7B7&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL)
 
