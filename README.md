@@ -627,7 +627,7 @@ Workshops e<br/>apresentações<br/>técnicas
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maykon_Lincoln-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maykonlincoln)
 [![Email](https://img.shields.io/badge/Email-maykonlincolnmanager@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)]
-[![Instagram](https://img.shields.io/badge/Instagram-@maykonlincoln-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/maykonlincoln)
+![Instagram](https://img.shields.io/badge/Instagram-@maykonlincoln-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/maykonlincoln)
 [![Website](https://img.shields.io/badge/Website-maykonlincoln.com-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://maykonlincoln.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Business-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/seu_numero)
 
