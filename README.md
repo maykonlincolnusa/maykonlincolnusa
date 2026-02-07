@@ -6,8 +6,8 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maykon_Lincoln-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maykonlincoln)
-[![Instagram](https://img.shields.io/badge/Instagram-@maykonlincoln-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/maykonlincoln)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-https://www.linkedin.com/in/maykon-lincoln-576a97332 -?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maykonlincoln)
+![Instagram](https://img.shields.io/badge/Instagram-@maykonlincoln-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/maykonlincoln)
 [![Website](https://img.shields.io/badge/Website-maykonlincoln.com-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://maykonlincoln.com)
 [![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@maykonlincoln.com)
 
