@@ -624,29 +624,13 @@ Workshops e<br/>apresentações<br/>técnicas
 <div align="center">
 
 ### 🌐 Canais de Comunicação
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Maykon_Lincoln-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-
-](https://www.linkedin.com/in/maykon-lincoln-576a97332)
-[
-
-![Email](https://img.shields.io/badge/Email-maykonlincolnmanager@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
-
-](mailto:maykonlincolnmanager@gmail.com)
-[
-
-![Instagram](https://img.shields.io/badge/Instagram-@maykonlincoln-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-
-](https://instagram.com/maykonlincoln)
-[
-
-![Website](https://img.shields.io/badge/Website-maykonlincoln.com-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)
-
-](https://maykonlincoln.com)
-[
-
-![WhatsApp](https://img.shields.io/badge/WhatsApp-Business-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+<p align="center">
+  <a href="https://www.linkedin.com/in/maykon-lincoln-576a97332"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:maykonlincolnmanager@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://instagram.com/maykonlincoln"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://maykonlincoln.com"><img src="https://img.shields.io/badge/Website-00C7B7?style=flat&logo=google-chrome&logoColor=white" alt="Website"/></a>
+  <a href="https://wa.me/5521975961920"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+</p>
 
 
 ---
