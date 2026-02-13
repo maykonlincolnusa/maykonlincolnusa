@@ -1,4 +1,4 @@
-# 👋 Maykon Lincoln | Systems Engineering, Data & AI
+# 👋 Maykon Lincoln | Systems Engineering, Data & AI and Software
 
 **Building scalable architectures that drive business growth**  
 Consulting for companies in Brazil and the US 🇧🇷 🇺🇸
