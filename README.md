@@ -97,7 +97,7 @@ PostgreSQL • TimescaleDB • Elasticsearch • Prometheus • Grafana
 
 Ready to discuss your next strategic technology initiative.
 
-**📧** contact@maykonlincoln.com  
+**📧** maykon_zero@hotmail.com
 **💼** [linkedin.com/in/maykonlincolnusa](https://linkedin.com/in/maykonlincolnusa)  
 **🌐** [maykonlincoln.com](https://maykonlincoln.com)
 
