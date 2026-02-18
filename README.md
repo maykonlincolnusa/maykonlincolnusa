@@ -7,7 +7,7 @@
 <!-- ═══ TYPING ANIMATION ═══ -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&repeat=true&width=500&height=45&lines=🛡️+AI+Security+%26+Threat+Detection;🤖+Deep+Learning+at+Scale;☁️+Multi-Cloud+%7C+Kubernetes;📡+Real-Time+Data+Pipelines;🔐+Zero+Trust+Architecture;🌍+Global+Enterprise+Delivery" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&repeat=true&width=500&height=45&lines=🛡️+AI+Security+%26+Threat+Detection;🤖+Deep+Learning+at+Scale;☁️+Multi-Cloud+%7C+Kubernetes;📡+Real-Time+Data+Pipelines;🔐+Zero+Trust+Architecture;🌍+Global+Enterprise+Delivery" alt="Typing SVG" />
 </a>
 
 <br/>
