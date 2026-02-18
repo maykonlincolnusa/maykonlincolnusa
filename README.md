@@ -6,7 +6,7 @@
 
 <!-- ═══ TYPING ANIMATION ═══ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&repeat=true&width=560&height=50&lines=%F0%9F%9B%A1%EF%B8%8F+AI+Security+%26+Threat+Detection;%F0%9F%A4%96+Deep+Learning+at+Scale;%E2%98%81%EF%B8%8F+Multi-Cloud+%7C+Kubernetes;%F0%9F%93%A1+Real-Time+Data+Pipelines;%F0%9F%94%90+Zero+Trust+Architecture;%F0%9F%8C%8D+Global+Enterprise+Delivery" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&repeat=true&width=560&height=50&lines=AI+Security+%26+Threat+Detection;Deep+Learning+at+Scale;Multi-Cloud+%7C+Kubernetes+%7C+IaC;Real-Time+Data+Pipelines;Zero+Trust+Architecture;Global+Enterprise+Delivery" alt="Typing Animation" />
 
 <br/>
 
