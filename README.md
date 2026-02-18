@@ -2,13 +2,11 @@
 
 <!-- ═══ ANIMATED HEADER ═══ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0d1117,100:00ff41&height=180&section=header&text=MAYKON%20LINCOLN&fontSize=42&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Systems%20Engineer%20%E2%80%A2%20AI%20Architect%20%E2%80%A2%20Global%20Consultant&descAlignY=60&descSize=14&descColor=c9d1d9" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0d1117,100:00ff41&height=260&section=header&text=MAYKON%20LINCOLN&fontSize=58&fontColor=00ff41&animation=fadeIn&fontAlignY=42&desc=Systems%20Engineer%20%E2%80%A2%20AI%20Architect%20%E2%80%A2%20Global%20Consultant&descAlignY=62&descSize=16&descColor=c9d1d9" width="100%" />
 
 <!-- ═══ TYPING ANIMATION ═══ -->
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&repeat=true&width=500&height=45&lines=🛡️+AI+Security+%26+Threat+Detection;🤖+Deep+Learning+at+Scale;☁️+Multi-Cloud+%7C+Kubernetes;📡+Real-Time+Data+Pipelines;🔐+Zero+Trust+Architecture;🌍+Global+Enterprise+Delivery" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&repeat=true&width=560&height=50&lines=%F0%9F%9B%A1%EF%B8%8F+AI+Security+%26+Threat+Detection;%F0%9F%A4%96+Deep+Learning+at+Scale;%E2%98%81%EF%B8%8F+Multi-Cloud+%7C+Kubernetes;%F0%9F%93%A1+Real-Time+Data+Pipelines;%F0%9F%94%90+Zero+Trust+Architecture;%F0%9F%8C%8D+Global+Enterprise+Delivery" alt="Typing Animation" />
 
 <br/>
 
