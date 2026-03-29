@@ -1,14 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=1&section=header" width="100%"/>
-
-<br/>
-
-```
-M A Y K O N   L I N C O L N
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=4000&pause=1200&color=C9D1D9&center=true&vCenter=true&repeat=true&width=560&height=32&lines=Senior+Systems+Engineer+%26+AI+Architect;Cybersecurity+%E2%80%94+Cloud+%E2%80%94+Applied+Intelligence;🇧🇷+Brazil+%C2%B7+🇺🇸+United+States" alt=""/>
+<img src="./banner.svg" width="100%" alt="Maykon Lincoln"/>
 
 <br/>
 
