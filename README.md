@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/maykonlincolnusa)&nbsp;&nbsp;
 [![Website](https://img.shields.io/badge/maykonlincoln.com-1d1d1f?style=flat-square&logo=safari&logoColor=f5f5f7)](https://maykonlincoln.com)&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/contact%40maykonlincoln.com-1d1d1f?style=flat-square&logo=maildotru&logoColor=f5f5f7)](mailto:contact@maykonlincoln.com)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/maykon_zero@hotmail.com-1d1d1f?style=flat-square&logo=maildotru&logoColor=f5f5f7)](mailto:contact@maykonlincoln.com)&nbsp;&nbsp;
 [![Views](https://komarev.com/ghpvc/?username=maykonlincolnusa&color=1d1d1f&style=flat-square&label=views)](https://github.com/maykonlincolnusa)
 
 </div>
