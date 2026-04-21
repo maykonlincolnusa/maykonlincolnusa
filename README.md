@@ -368,26 +368,7 @@ A **transparent, secure financial platform** for tracking tithes, offerings, and
 
 <br/>
 
-## Credentials
 
-<br/>
-
-<div align="center">
-
-| &nbsp; | Certification | Issuing Authority |
-|:---:|---|---|
-| ☁️ | AWS Certified Solutions Architect | Amazon Web Services |
-| 🔐 | CISSP — Certified Information Systems Security Professional | ISC² |
-| 📊 | Professional Data Engineer | Google Cloud |
-| ⚙️ | Certified Kubernetes Administrator | CNCF |
-
-</div>
-
-<br/><br/>
-
----
-
-<br/>
 
 ## GitHub
 
@@ -445,6 +426,6 @@ Available for engagements where precision matters and mediocrity isn't an option
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a0a&height=60&section=footer&fontSize=11&fontColor=30D158&text=🇧🇷%20Brazil%20·%20🇺🇸%20United%20States%20·%20Engineered%20for%20permanence." width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a0a&height=100&section=footer&fontSize=22&fontColor=30D158&text=🇧🇷%20Brazil%20%20·%20%20🇺🇸%20United%20States%20%20·%20%20Engineered%20for%20permanence." width="100%"/>
 
 </div>
