@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a0a&height=280&text=MAYKON%20LINCOLN&fontSize=64&fontColor=f5f5f7&fontAlignY=48&animation=fadeIn&desc=AI%20Architect%20%E2%80%94%20Systems%20Engineer%20%E2%80%94%20Cyber%20Pioneer&descAlignY=66&descSize=15&descColor=30D158" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a0a&height=300&text=MAYKON%20LINCOLN&fontSize=80&fontColor=f5f5f7&fontAlignY=48&animation=fadeIn&desc=AI%20Architect%20%E2%80%94%20Systems%20Engineer%20%E2%80%94%20Cyber%20Pioneer&descAlignY=68&descSize=16&descColor=30D158" width="100%"/>
 
 </div>
 
@@ -10,8 +10,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/maykonlincolnusa)&nbsp;&nbsp;
 [![Website](https://img.shields.io/badge/maykonlincoln.com-0a0a0a?style=flat-square&logo=safari&logoColor=30D158)](https://maykonlincoln.com)&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/contact%40maykonlincoln.com-0a0a0a?style=flat-square&logo=maildotru&logoColor=30D158)](mailto:contact@maykonlincoln.com)&nbsp;&nbsp;
 [![Views](https://komarev.com/ghpvc/?username=maykonlincolnusa&color=30D158&style=flat-square&label=views)](https://github.com/maykonlincolnusa)
+
+<br/><br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=30D158&center=true&vCenter=true&width=720&lines=Building+AI+that+thinks+at+enterprise+scale.;Engineering+systems+that+outlast+the+hype.;From+church+networks+to+Tier-1+banks+%E2%80%94+precision+is+the+standard.;14+active+projects.+Zero+tolerance+for+mediocrity.)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,10 +26,15 @@
 
 <div align="center">
 
-*"Design is not just what it looks like and feels like.*
-*Design is how it works."*
-
-— **Steve Jobs**
+```
+  ╔══════════════════════════════════════════════════════════════════╗
+  ║  I don't build prototypes for slide decks.                     ║
+  ║  I build infrastructure that handles millions,                 ║
+  ║  serves congregations, and survives production.                ║
+  ║                                                                 ║
+  ║  Faith-driven. Precision-engineered. Always shipped.           ║
+  ╚══════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
