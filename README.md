@@ -1,440 +1,405 @@
 <div align="center"><img
 width="100%"
-src="https://capsule-render.vercel.app/api?type=venom&amp;color=0:0D1117,50:0A271A,100:0D1117&amp;height=270&amp;section=header&amp;text=MAYKON%20LINCOLN&amp;fontSize=68&amp;fontColor=F0F6FC&amp;animation=fadeIn&amp;fontAlignY=39&amp;desc=Director%20of%20Operations%20%26%20Technology%20%C2%B7%20Systems%20Engineer%20%C2%B7%20AI%20Architect&amp;descAlignY=59&amp;descSize=16&amp;descColor=3FB950"
+src="https://capsule-render.vercel.app/api?type=venom&amp;color=0:050505,50:0B2B1A,100:050505&amp;height=290&amp;section=header&amp;text=MAYKON%20LINCOLN&amp;fontSize=72&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;animation=fadeIn&amp;desc=Building%20intelligent%20systems%20for%20operations%2C%20resilience%20and%20decision-making.&amp;descAlignY=58&amp;descSize=16&amp;descColor=39D353"
 alt="Maykon Lincoln"
 />
 
-<a href="https://linkedin.com/in/maykonlincolnusa">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white"
-    alt="LinkedIn"
-  />
+<a href="https://maykonlincoln.com">
+  <img src="https://img.shields.io/badge/OR%20SYSTEM-Website-050505?style=for-the-badge&amp;logo=safari&amp;logoColor=39D353" alt="OR System website"/>
 </a>
 &nbsp;
-<a href="https://maykonlincoln.com">
-  <img
-    src="https://img.shields.io/badge/Website-maykonlincoln.com-0D1117?style=flat-square&amp;logo=safari&amp;logoColor=3FB950"
-    alt="Website"
-  />
+<a href="https://linkedin.com/in/maykonlincolnusa">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-050505?style=for-the-badge&amp;logo=linkedin&amp;logoColor=39D353" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="https://github.com/maykonlincolnusa">
-  <img
-    src="https://img.shields.io/badge/Portfolio-GitHub-0D1117?style=flat-square&amp;logo=github&amp;logoColor=3FB950"
-    alt="GitHub Portfolio"
-  />
-</a>
-&nbsp;
-<img
-  src="https://img.shields.io/badge/Brazil%20%E2%86%94%20United%20States-0D1117?style=flat-square&amp;labelColor=0D1117&amp;color=238636"
-  alt="Brazil and United States"
-/><br/><br/>
+  <img src="https://img.shields.io/badge/GitHub-Explore-050505?style=for-the-badge&amp;logo=github&amp;logoColor=39D353" alt="GitHub"/>
+</a><br/><br/>
 
 <img
-width="100%"
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=15&amp;duration=3200&amp;pause=1000&amp;color=3FB950&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;random=false&amp;width=980&amp;height=40&amp;lines=Engineering+AI%2C+software%2C+data+and+distributed+systems.;Building+operational+platforms+for+education%2C+finance+and+critical+infrastructure.;Python+%C2%B7+C%23+%C2%B7+.NET+%C2%B7+C%2B%2B+%C2%B7+Java+%C2%B7+TypeScript.;Professional+experience+across+Brazil%2C+Texas+and+Miami.;Faith-driven+%C2%B7+Systems-minded+%C2%B7+Execution-focused."
-alt="Animated professional headline"
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=16&amp;duration=3000&amp;pause=900&amp;color=39D353&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=980&amp;height=45&amp;lines=Operational+AI.+Distributed+Systems.+Resilient+Infrastructure.;Turning+complex+operations+into+intelligent+software.;Engineering+across+Python%2C+C%23%2C+.NET%2C+C%2B%2B+and+Java.;From+education+platforms+to+mission-critical+architecture.;Systems+designed+to+think%2C+adapt+and+endure."
+alt="Animated introduction"
 />
-
-<br/><sub><strong>ENGINEERING SYSTEMS THAT CREATE OPERATIONAL ADVANTAGE</strong></sub>
 
 </div>---
 
-01 / Executive Profile
+<div align="center">This is not a collection of experiments.
 
-I am a Partner and Director of Operations & Technology, Systems Engineer and AI Architect based in Rio de Janeiro, Brazil.
+It is a growing ecosystem of systems designed for real operations.
 
-I currently lead technology, operations and digital transformation for an education company, connecting business strategy, software architecture, process automation, data, infrastructure and operational intelligence.
+</div>I build software where artificial intelligence, systems engineering, data and business operations meet.
 
-My professional experience spans Brazil, Texas and Miami, including experience connected to White Stone Concrete in Texas, HID in Miami, and technology and operational initiatives in Brazil.
+Some systems manage schools.
+Some coordinate church networks.
+Some explore financial resilience, multicloud control and critical infrastructure.
 
-My work is positioned at the convergence of:
+The common idea is always the same:
 
-SYSTEMS ENGINEERING
-        +
-SOFTWARE ARCHITECTURE
-        +
-ARTIFICIAL INTELLIGENCE
-        +
-DATA & CLOUD INFRASTRUCTURE
-        +
-CYBERSECURITY
-        +
-BUSINESS OPERATIONS
+«Understand the operation. Structure the data. Engineer the system. Create intelligence.»
 
-I started primarily with Python and expanded my engineering scope into C#, .NET, C++, Java, TypeScript, Go and Rust.
+I am a Partner and Director of Operations & Technology in an education company in Rio de Janeiro. That means my work does not stop at architecture diagrams or source code. I also deal with people, processes, costs, decisions, failures and the reality of keeping an operation running.
 
-Today, I focus on designing reliable systems that connect software, data, AI, security and operational execution.
+My professional journey includes experience across Brazil, Texas and Miami, combining operational responsibility with software and systems engineering.
 
-«Technology should not exist as an isolated department.
-It should strengthen decisions, reduce friction and generate measurable value.»
+This profile is the engineering notebook behind that journey.
 
 ---
 
-02 / Operating Profile
+<div align="center">What We Build
 
-Domain| Scope
-Executive Leadership| Technology strategy, operational management, digital transformation and product execution
-Systems Engineering| Architecture, integration, resilience, observability, distributed systems and mission continuity
-Software Engineering| Backend services, enterprise platforms, APIs, event-driven systems and real-time applications
-Artificial Intelligence| AI agents, RAG, machine learning, deep learning, computer vision and intelligent automation
-Data Engineering| ETL/ELT, event streaming, analytics, geospatial intelligence and decision-support systems
-Cloud Infrastructure| AWS, Google Cloud, Microsoft Azure, containers, Infrastructure as Code and multicloud
-Cybersecurity| Zero Trust, threat intelligence, DFIR, AI security, ICS/OT and critical infrastructure
-Business Operations| Finance, inventory, people, services, processes, performance and operational intelligence
+</div><table>
+<tr>
+<td width="33%" valign="top">Intelligent Operations
+
+Systems that connect people, finance, inventory, services and decision-making.
+
+<br/>"ERP"
+"Operational Platforms"
+"Workflow Automation"
+"Business Intelligence"
+
+</td>
+<td width="33%" valign="top">AI & Data Systems
+
+Architectures that transform fragmented data into useful intelligence.
+
+<br/>"AI Agents"
+"RAG"
+"Machine Learning"
+"Data Engineering"
+
+</td>
+<td width="33%" valign="top">Resilient Infrastructure
+
+Distributed and secure systems designed for complex environments.
+
+<br/>"Distributed Systems"
+"Multicloud"
+"Cybersecurity"
+"Critical Infrastructure"
+
+</td>
+</tr>
+</table>---
+
+<div align="center">The System Behind the Systems
+
+</div>┌───────────────────────────────────────────────────────────────────┐
+│                           REAL OPERATION                          │
+│          people · processes · assets · finance · decisions        │
+└──────────────────────────────┬────────────────────────────────────┘
+                               │
+                               ▼
+┌───────────────────────────────────────────────────────────────────┐
+│                        SOFTWARE PLATFORM                          │
+│           applications · APIs · workflows · integrations          │
+└──────────────────────────────┬────────────────────────────────────┘
+                               │
+                               ▼
+┌───────────────────────────────────────────────────────────────────┐
+│                         DATA FOUNDATION                           │
+│             ingestion · pipelines · events · governance           │
+└──────────────────────────────┬────────────────────────────────────┘
+                               │
+                               ▼
+┌───────────────────────────────────────────────────────────────────┐
+│                      INTELLIGENCE LAYER                           │
+│              AI agents · ML · RAG · analytics · vision            │
+└──────────────────────────────┬────────────────────────────────────┘
+                               │
+                               ▼
+┌───────────────────────────────────────────────────────────────────┐
+│                  SECURITY & INFRASTRUCTURE                        │
+│       cloud · observability · resilience · identity · policy      │
+└───────────────────────────────────────────────────────────────────┘
+
+The objective is not to add AI everywhere.
+
+The objective is to build an operation that can observe, understand, decide and respond.
 
 ---
 
-03 / Professional Experience
+<div align="center">Systems in Motion
 
-Region| Experience
-Brazil| Director of Operations & Technology, business partner, software systems, education operations and digital transformation
-Texas| Professional and operational experience connected to White Stone Concrete
-Miami| Professional experience connected to HID and the technology environment of South Florida
-
-This combination allows me to evaluate systems from two perspectives:
-
-HOW THE SYSTEM IS ENGINEERED
-             +
-HOW THE SYSTEM CREATES BUSINESS VALUE
-
----
-
-04 / Selected Systems
-
-"01" — OR Meridian
+</div>"01" OR Meridian
 
 Global Multicloud Control Plane
 
-A systems engineering project focused on coordinating workloads, policies, telemetry, security and resilience across AWS, Google Cloud and Microsoft Azure.
+A distributed control-plane architecture for coordinating workloads, policies, telemetry and resilience across AWS, Google Cloud and Microsoft Azure.
 
-                         OR MERIDIAN
-                              │
-             ┌────────────────┼────────────────┐
-             │                │                │
-            AWS              GCP             AZURE
-             │                │                │
-             └──────── GLOBAL CONTROL ─────────┘
-                              │
-       POLICY · TELEMETRY · SECURITY · RESILIENCE · AUTOMATION
+It explores how a global platform can understand the state of multiple cloud environments and respond intelligently to failures, costs, security requirements and workload demand.
 
-Engineering focus
+AWS ───────────┐
+               │
+GCP ───────────┼────▶ OR MERIDIAN ────▶ Policy · Telemetry · Resilience
+               │
+AZURE ─────────┘
 
-- Distributed control planes
-- Multicloud workload coordination
-- Failure isolation
-- Policy enforcement
-- Infrastructure automation
-- Security and observability
-- Resilience engineering
-
-"Python" "Go" "C#" ".NET" "Kubernetes" "Terraform" "Kafka" "OpenTelemetry"
+"Distributed Systems" "Multicloud" "Kubernetes" "Terraform" "Kafka" "OpenTelemetry"
 
 ---
 
-"02" — SOVRANET
+"02" SOVRANET
 
-Mission-Critical Systems Platform
+Infrastructure for Systems That Cannot Stop
 
-A systems architecture initiative focused on secure communications, sovereign infrastructure, operational resilience and mission continuity.
+SOVRANET is an architecture initiative for environments where continuity, security and coordination are mission requirements.
 
-SOVRANET
-   │
-   ├── FINANCIAL GRID
-   │     Payments · Open Finance · Fraud · Treasury · Audit
-   │
-   ├── MARITIME SYSTEMS
-   │     Secure Coordination · Edge Systems · Mission Data
-   │
-   └── CRITICAL INFRASTRUCTURE
-         Resilience · Secure Exchange · Operational Continuity
+Its research is organized into three interconnected domains:
 
-Engineering focus
+<table>
+<tr>
+<td width="33%" valign="top">Financial Grid
 
-- Distributed mission systems
-- Secure edge computing
-- Event-driven financial infrastructure
-- Identity and policy enforcement
-- Fault tolerance and continuity
-- Critical infrastructure architecture
+Payments, fraud, Open Finance, treasury, auditing and financial continuity.
 
-"C#" ".NET" "C++" "Rust" "Python" "Java" "Kafka" "NATS" "PostgreSQL" "Kubernetes"
+</td>
+<td width="33%" valign="top">Maritime Systems
+
+Secure communications, operational coordination and distributed mission data.
+
+</td>
+<td width="33%" valign="top">Critical Infrastructure
+
+Resilient edge systems, secure data exchange and operational continuity.
+
+</td>
+</tr>
+</table>"C#" ".NET" "C++" "Rust" "Java" "Python" "Kafka" "NATS" "PostgreSQL"
 
 ---
 
-"03" — RP Jardim
+"03" RP Jardim
 
-Integrated Education Operations Platform
+An Operating System for Education
 
-An operational platform connecting the main administrative and operational functions of an education company.
+RP Jardim is not simply an administrative application.
 
-PEOPLE ── FINANCE ── INVENTORY ── SCHOOL OPERATIONS
-   │           │            │              │
-   └───────────┴──── OPERATIONAL DATA ─────┘
-                            │
-                   MANAGEMENT INTELLIGENCE
+It is an operational platform that connects the different parts of an education company into a shared system.
 
-Operational scope
+People ───────┐
+Finance ──────┤
+Inventory ────┼────▶ RP JARDIM ────▶ Operational Intelligence
+School Ops ───┤
+Kitchen ──────┘
 
-- People and administrative processes
+The platform connects:
+
 - Financial operations
 - Supplies and inventory
-- School administration
-- Kitchen consumption monitoring
-- Waste and cost analysis
-- Management indicators
-- Operational intelligence
+- People and administrative processes
+- School management
+- Kitchen consumption and waste control
+- Operational indicators
+- Decision-support information
 
-"Python" "FastAPI" "Node.js" "TypeScript" "React" "MongoDB" "SQL"
-
----
-
-"04" — Zelo Jardim
-
-Family Experience & Education Services Platform
-
-A progressive web application designed to improve communication, routines, services and the experience of families inside the educational environment.
-
-"TypeScript" "React" "PWA" "Turso" "APIs" "Automation"
+"Python" "FastAPI" "Node.js" "TypeScript" "React" "MongoDB"
 
 ---
 
-"05" — ADMAV Digital Ecosystem
+"04" Zelo Jardim
 
-Technology Infrastructure for a Multi-Unit Church Network
+The Digital Experience Around the School
 
-A digital ecosystem supporting congregations, leaders, visitors, members and administrative teams.
+Zelo Jardim extends the operational platform into the daily experience of families.
 
-VISITOR REGISTRATION
-         │
-         ▼
-CENTRAL DATA PLATFORM
-         │
-         ├── LEADERSHIP DISTRIBUTION
-         ├── WHATSAPP AUTOMATION
-         ├── MEMBER JOURNEYS
-         ├── DISCIPLESHIP & TRAINING
-         └── OPERATIONAL ANALYTICS
+It is designed to connect communication, routines, services and interactions inside a single digital environment.
 
-Ecosystem scope
+"React" "TypeScript" "PWA" "Turso" "Automation"
 
-- Visitor and member onboarding
-- Administrative management
-- Leadership distribution
-- Volunteer coordination
-- Discipleship and training
-- WhatsApp automation
-- AI-assisted welcome experiences
-- Branch and congregation operations
+---
+
+"05" ADMAV Digital Ecosystem
+
+Technology for People, Ministry and Community
+
+A connected ecosystem developed for a multi-unit church network.
+
+The platform begins when a visitor arrives and continues through communication, leadership, training and community integration.
+
+Visitor
+   │
+   ▼
+Registration ──▶ Central Platform ──▶ Leadership
+                         │
+                         ├── WhatsApp Automation
+                         ├── Member Journey
+                         ├── Discipleship
+                         ├── Volunteers
+                         └── Operational Analytics
 
 "Python" "FastAPI" "React" "MongoDB" "Google Cloud Run" "OpenAI" "Z-API"
 
 ---
 
-"06" — Watchtower Cities & SIGAP
+"06" Watchtower Cities & SIGAP
 
-Geospatial and Public-Data Intelligence
+Intelligence for Understanding Territory
 
-Research platforms exploring the relationship between public safety, territorial risk, urban infrastructure, social dynamics and economic impact.
+Platforms for combining public data, geospatial information, statistical analysis and artificial intelligence.
 
-PUBLIC DATA
-     │
-     ▼
-INGESTION & ETL
-     │
-     ▼
-GEOSPATIAL + TEMPORAL ANALYSIS
-     │
-     ▼
-STATISTICAL & AI INTELLIGENCE
-     │
-     ▼
-OPERATIONAL DECISION SUPPORT
+The goal is not only to visualize events, but to understand how violence, infrastructure, economics and territory influence one another.
 
-"Python" "Pandas" "GeoPandas" "PostGIS" "Machine Learning" "ETL" "Geospatial Analytics"
+Public Sources
+      │
+      ▼
+Data Engineering
+      │
+      ▼
+Geospatial & Temporal Analysis
+      │
+      ▼
+Machine Intelligence
+      │
+      ▼
+Economic and Operational Insight
+
+"Python" "Pandas" "GeoPandas" "PostGIS" "Machine Learning" "ETL"
 
 ---
 
-05 / Engineering Stack
+<div align="center">Engineering Constellation
 
-Languages & Core Engineering
+</div>Languages
 
 <div align="center"><img
 src="https://skillicons.dev/icons?i=py,cs,dotnet,cpp,java,go,rust,ts,js&amp;theme=dark&amp;perline=9"
-alt="Python, C Sharp, .NET, C++, Java, Go, Rust, TypeScript and JavaScript"
+alt="Programming languages"
 />
 
-</div><br/>AI, Machine Learning & Data
+</div><br/>AI, Data & Intelligence
 
 <div align="center"><img
-src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,fastapi,postgres,mongodb,redis,elasticsearch&amp;theme=dark&amp;perline=9"
-alt="AI, machine learning, backend and data technologies"
+src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,postgres,mongodb,redis,elasticsearch&amp;theme=dark&amp;perline=8"
+alt="AI and data technologies"
 />
 
-</div><div align="center">"LangChain" · "LangGraph" · "LlamaIndex" · "RAG" · "Embeddings"
-"Vector Search" · "NumPy" · "Pandas" · "XGBoost" · "SHAP" · "MLflow" · "ONNX"
+<br/><br/>
 
-</div><br/>Applications & Platform Engineering
+"LangChain" · "LangGraph" · "LlamaIndex" · "RAG" · "Embeddings"
+"NumPy" · "Pandas" · "XGBoost" · "SHAP" · "MLflow" · "ONNX"
+
+</div><br/>Platforms & Applications
 
 <div align="center"><img
-src="https://skillicons.dev/icons?i=nodejs,spring,react,nextjs,graphql,express,html,css,tailwind&amp;theme=dark&amp;perline=9"
-alt="Application and platform technologies"
+src="https://skillicons.dev/icons?i=fastapi,nodejs,spring,react,nextjs,graphql,html,css,tailwind&amp;theme=dark&amp;perline=9"
+alt="Application technologies"
 />
 
-</div><div align="center">"ASP.NET Core" · "REST APIs" · "WebSockets" · "Microservices"
-"Event-Driven Architecture" · "Domain-Driven Design" · "Progressive Web Apps"
+<br/><br/>
 
-</div><br/>Cloud, Infrastructure & Distributed Systems
+"ASP.NET Core" · "REST APIs" · "WebSockets" · "Microservices"
+"Event-Driven Architecture" · "Domain-Driven Design"
+
+</div><br/>Cloud, Infrastructure & Systems
 
 <div align="center"><img
 src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,cloudflare,kafka,prometheus,grafana&amp;theme=dark&amp;perline=10"
-alt="Cloud, infrastructure and distributed systems technologies"
+alt="Cloud and infrastructure technologies"
 />
 
-</div><div align="center">"Google Cloud Run" · "Railway" · "NATS" · "OpenTelemetry"
-"Infrastructure as Code" · "Multicloud Architecture" · "Distributed Systems"
+<br/><br/>
+
+"NATS" · "OpenTelemetry" · "Google Cloud Run" · "Railway"
+"Infrastructure as Code" · "Multicloud" · "Distributed Systems"
 
 </div><br/>Engineering Environment
 
 <div align="center"><img
 src="https://skillicons.dev/icons?i=git,github,githubactions,linux,vscode,visualstudio,postman,bash,powershell&amp;theme=dark&amp;perline=9"
-alt="Engineering tools and environments"
+alt="Engineering tools"
 />
-
-</div><br/>Databases & Storage
-
-<div align="center"><img
-src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis,elasticsearch,supabase&amp;theme=dark&amp;perline=7"
-alt="Databases and storage technologies"
-/>
-
-</div><div align="center">"PostGIS" · "TimescaleDB" · "Neo4j" · "Turso" · "Vector Databases" · "Object Storage"
 
 </div>---
 
-06 / Architecture & Research Areas
+<div align="center">What I Am Exploring Now
 
-ENTERPRISE AI                  DISTRIBUTED SYSTEMS
-AI Agents                      Event Streaming
-RAG & Vector Search            Messaging & Coordination
-Deep Learning                  Fault Tolerance
-Computer Vision                Observability
-Explainable AI                 High Availability
+</div>C# / .NET         Enterprise and financial systems
+C++               High-performance and mission-critical engineering
+Java              Event-driven platforms and distributed services
+Python            AI, automation, backend and data engineering
+Deep Learning     Computer vision and intelligent perception
+Distributed       Messaging, coordination, resilience and failure
+Cloud             Global systems across AWS, GCP and Azure
+ICS / OT          Industrial systems and critical infrastructure
 
-DATA ENGINEERING               CRITICAL SYSTEMS
-ETL / ELT                      ICS / OT
-Geospatial Intelligence        SCADA
-Knowledge Graphs               Financial Infrastructure
-Operational Analytics          Secure Edge Computing
-Real-Time Processing           Mission Continuity
+These are not isolated technologies.
 
-CLOUD ARCHITECTURE             CYBERSECURITY
-AWS · GCP · Azure              Zero Trust
-Multicloud Control             Threat Intelligence
-Infrastructure as Code         DFIR
-Containers & Kubernetes        AI Security
-Cloud-Native Platforms         Identity & PKI
+They are different tools for building the same thing:
+
+«Systems capable of operating in complex environments.»
 
 ---
 
-07 / Current Direction
+<div align="center">Engineering Philosophy
 
-Technology or Domain| Current Engineering Direction
-C# & .NET| Enterprise platforms, financial infrastructure and distributed services
-C++| High-performance, embedded and mission-critical engineering
-Java| Event-driven systems, streaming platforms and enterprise applications
-Python| AI, data engineering, automation and backend systems
-Distributed Systems| Messaging, resilience, fault tolerance, coordination and observability
-Deep Learning| Neural architectures, computer vision and model deployment
-Cloud Architecture| AWS, GCP, Azure and global multicloud control planes
-ICS/OT Security| Industrial protocols, SCADA and critical infrastructure
-Financial Systems| Payments, fraud, Open Finance, resilience and operational continuity
-Data Engineering| Streaming, ETL, geospatial analysis and operational intelligence
+</div><table>
+<tr>
+<td width="50%" valign="top">Observe before automating.
 
----
+A system should begin with a real understanding of the operation.
 
-08 / Engineering Principles
+</td>
+<td width="50%" valign="top">Design for failure.
 
-01  UNDERSTAND THE OPERATION BEFORE DESIGNING THE SYSTEM.
+Resilience is not a final feature. It is part of the architecture.
 
-02  ARCHITECTURE MUST REFLECT BUSINESS REALITY.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">Intelligence needs context.
 
-03  RELIABILITY AND OBSERVABILITY ARE PRODUCT REQUIREMENTS.
+Data only becomes useful when connected to decisions and reality.
 
-04  SECURITY MUST BE DESIGNED FROM THE BEGINNING.
+</td>
+<td width="50%" valign="top">Technology must create value.
 
-05  DATA WITHOUT CONTEXT IS NOT INTELLIGENCE.
+The best architecture is the one that improves the operation.
 
-06  AI MUST SUPPORT DECISIONS AND MEASURABLE OUTCOMES.
+</td>
+</tr>
+</table>---
 
-07  DOCUMENTATION IS PART OF ENGINEERING.
+<div align="center">GitHub Activity
 
-08  SYSTEMS MUST BE DESIGNED FOR FAILURE AND RECOVERY.
-
-09  TECHNOLOGY MUST GENERATE OPERATIONAL VALUE.
-
-10  FAITH, RESPONSIBILITY AND EXCELLENCE GUIDE EXECUTION.
-
----
-
-09 / GitHub Signal
-
-<div align="center"><img
+<img
 height="170"
-src="https://github-readme-stats.vercel.app/api?username=maykonlincolnusa&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=F0F6FC&amp;text_color=8B949E&amp;icon_color=3FB950&amp;border_radius=8"
-alt="Maykon Lincoln GitHub statistics"
+src="https://github-readme-stats.vercel.app/api?username=maykonlincolnusa&amp;show_icons=true&amp;hide_border=true&amp;bg_color=050505&amp;title_color=FFFFFF&amp;text_color=8B949E&amp;icon_color=39D353&amp;border_radius=10"
+alt="GitHub statistics"
 />
  
 <img
 height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykonlincolnusa&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=F0F6FC&amp;text_color=8B949E&amp;border_radius=8"
-alt="Most used languages in public repositories"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykonlincolnusa&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=050505&amp;title_color=FFFFFF&amp;text_color=8B949E&amp;border_radius=10"
+alt="Programming languages"
 />
 
 <br/><br/>
 
 <img
 width="100%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=maykonlincolnusa&amp;bg_color=0D1117&amp;color=8B949E&amp;line=3FB950&amp;point=F0F6FC&amp;area=true&amp;hide_border=true&amp;area_color=163D28&amp;radius=8"
-alt="GitHub contribution activity graph"
+src="https://github-readme-activity-graph.vercel.app/graph?username=maykonlincolnusa&amp;bg_color=050505&amp;color=8B949E&amp;line=39D353&amp;point=FFFFFF&amp;area=true&amp;hide_border=true&amp;area_color=0B2B1A&amp;radius=10"
+alt="GitHub activity graph"
 />
 
 </div>---
 
-<div align="center">Strategic Engagements
-
-I am interested in initiatives involving:
-
-Enterprise AI · Distributed Systems · Cloud Architecture · Cybersecurity
-Operational Intelligence · Critical Infrastructure · Digital Transformation
+<div align="center">Building systems for organizations that need to understand, decide and operate better.
 
 <br/><a href="https://maykonlincoln.com">
-  <img
-    src="https://img.shields.io/badge/Visit%20My%20Website-0D1117?style=for-the-badge&amp;logo=safari&amp;logoColor=3FB950"
-    alt="Visit my website"
-  />
+  <img src="https://img.shields.io/badge/Explore%20OR%20System-050505?style=for-the-badge&amp;logo=safari&amp;logoColor=39D353" alt="Explore OR System"/>
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/maykonlincolnusa">
-  <img
-    src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0D1117?style=for-the-badge&amp;logo=linkedin&amp;logoColor=3FB950"
-    alt="Connect on LinkedIn"
-  />
-</a>
-&nbsp;
-<a href="https://github.com/maykonlincolnusa">
-  <img
-    src="https://img.shields.io/badge/Explore%20My%20Projects-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=3FB950"
-    alt="Explore my projects"
-  />
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-050505?style=for-the-badge&amp;logo=linkedin&amp;logoColor=39D353" alt="Connect on LinkedIn"/>
 </a><br/><br/>
 
 <sub>
-BRAZIL · UNITED STATES<br/>
-ENGINEERING FOR REAL OPERATIONAL VALUE
+RIO DE JANEIRO · TEXAS · MIAMI<br/>
+AI · SYSTEMS · DATA · OPERATIONS
 </sub><img
 width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:0A271A,100:0D1117&amp;height=150&amp;section=footer&amp;animation=fadeIn"
+src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:050505,50:0B2B1A,100:050505&amp;height=150&amp;section=footer&amp;animation=fadeIn"
 alt="Footer"
 />
 
