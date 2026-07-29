@@ -21,7 +21,7 @@ src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&am
 alt="Animated introduction"
 />
 
-</div>---
+</div>
 
 <div align="center">This is not a collection of experiments.
 
