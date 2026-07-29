@@ -1,211 +1,404 @@
-<div align="center">
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:071507,100:000000&height=300&text=MAYKON%20LINCOLN&fontSize=80&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Technology%20%26%20Operations%20Director%20%E2%80%94%20Systems%20Engineer%20%E2%80%94%20AI%20Architect&descAlignY=61&descSize=16&descColor=30D158" width="100%"/></div><br/><div align="center">""LinkedIn" (https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" (https://linkedin.com/in/maykonlincolnusa) 
+""Website" (https://img.shields.io/badge/maykonlincoln.com-000000?style=for-the-badge&logo=safari&logoColor=30D158)" (https://maykonlincoln.com) 
+""GitHub" (https://img.shields.io/badge/GitHub-Portfolio-000000?style=for-the-badge&logo=github&logoColor=30D158)" (https://github.com/maykonlincolnusa) 
+""Profile Views" (https://komarev.com/ghpvc/?username=maykonlincolnusa&color=30D158&style=for-the-badge&label=VIEWS)" (https://github.com/maykonlincolnusa)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a1a0a,100:000000&height=300&text=MAYKON%20LINCOLN&fontSize=82&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=AI%20Architect%20%E2%80%94%20Systems%20Engineer%20%E2%80%94%20Cyber%20Pioneer&descAlignY=62&descSize=17&descColor=30D158" width="100%"/>
+</div><br/><div align="center">""Typing SVG" (https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1500&color=30D158&center=true&vCenter=true&width=850&lines=Technology+%26+Operations+Director+%7C+Systems+Engineer+%7C+AI+Architect;Engineering+AI%2C+distributed+systems+and+mission-critical+platforms.;Building+across+Python%2C+C%23%2C+.NET%2C+C%2B%2B%2C+Java+and+TypeScript.;Professional+experience+across+Brazil%2C+Texas+and+Miami.;Faith-driven.+Systems-minded.+Execution-focused.)" (https://git.io/typing-svg)
 
-</div>
-
-<br/>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maykonlincolnusa)&nbsp;
-[![Website](https://img.shields.io/badge/maykonlincoln.com-000000?style=for-the-badge&logo=safari&logoColor=30D158)](https://maykonlincoln.com)&nbsp;
-[![Views](https://komarev.com/ghpvc/?username=maykonlincolnusa&color=30D158&style=for-the-badge&label=VIEWS)](https://github.com/maykonlincolnusa)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1600&color=30D158&center=true&vCenter=true&width=720&lines=AI+Architect+%7C+Systems+Engineer+%7C+Cyber+Pioneer;Building+AI+that+thinks+at+enterprise+scale.;From+church+networks+to+Tier-1+banks+%E2%80%94+precision+is+the+standard.;Faith-driven.+Precision-engineered.+Always+shipped.)](https://git.io/typing-svg)
-
-</div>
-
-<br/><br/>
+</div><br/><br/>
 
 ---
 
-<br/>
+<br/>About Me
+
+I am a Technology and Operations Director, business partner, Systems Engineer and AI Architect based in Rio de Janeiro, Brazil, with professional experience across Brazil, Texas and Miami.
 
-I'm a **Senior Systems Engineer and AI Architect** operating across Brazil and the United States, building enterprise-grade AI systems, cybersecurity platforms, and cloud infrastructure for high-stakes domains — from Tier-1 banks to multi-unit church networks.
+I currently lead operations, technology and digital transformation for an education company, working across business strategy, software architecture, process automation, data, infrastructure and operational intelligence.
+
+My work sits at the intersection of:
 
-My work sits at the intersection of **machine learning, data engineering, and systems design**. I don't prototype for slide decks. I build infrastructure that survives production, handles millions of transactions, and scales across institutions.
+- Systems Engineering
+- Software Architecture
+- Artificial Intelligence
+- Machine Learning and Deep Learning
+- Distributed Systems
+- Data Engineering
+- Cloud Computing
+- Cybersecurity
+- Business Operations
+
+I design and build systems intended to solve real operational problems — connecting software, people, data, processes and infrastructure into reliable platforms.
+
+My engineering background began primarily with Python, but has expanded into C#, .NET, C++, Java, TypeScript, Go and Rust, allowing me to explore everything from enterprise applications and distributed services to high-performance, mission-critical and security-oriented systems.
+
+<br/>Leadership          Technology & Operations · Business Strategy · Digital Transformation
+Engineering         Systems Design · Software Architecture · Distributed Systems
+Artificial Intelligence
+                    AI Agents · RAG · Machine Learning · Deep Learning · MLOps
+Data                Data Engineering · ETL/ELT · Event Streaming · Analytics
+Cloud               AWS · Google Cloud · Microsoft Azure · Multicloud
+Security            Cybersecurity · Zero Trust · DFIR · ICS/OT · Threat Intelligence
 
-Beyond the technical, I lead the **communications department at ADMAV**, a multi-unit church network in Brazil — where I architect digital tools that serve congregations with the same precision I'd apply to any enterprise deployment. Faith and engineering aren't separate. They inform each other.
+<br/>---
 
-```
-AWS Solutions Architect  ·  CISSP  ·  GCP Professional Data Engineer  ·  CKA
-```
+<br/><div align="center">〔 Professional Profile 〕
+
+</div><br/>Technology & Operations Leadership
+
+As a Director of Operations and Technology and business partner in the education sector, I work beyond software development.
+
+My responsibilities and areas of involvement include:
 
-<br/>
+- Technology strategy and architecture
+- Operational management
+- Digital transformation
+- Financial and operational systems
+- Process automation
+- Data-driven decision-making
+- Internal platforms and administrative systems
+- Infrastructure and cloud services
+- Product and service development
+- Integration between technology and business operations
 
----
+<br/>International Experience
 
-<br/>
+My professional trajectory includes experience in:
 
-<div align="center">
+🇧🇷 Brazil       Technology leadership · Education · Business operations · Software systems
+🇺🇸 Texas        Professional and operational experience
+🇺🇸 Miami        Professional and technology-related experience
 
-# 〔 Selected Work 〕
+This combination of operational leadership and engineering allows me to approach systems from both perspectives: how they are built and how they create value inside an organization.
 
-</div>
+<br/>---
 
-<br/>
+<br/><div align="center">〔 Current Engineering Focus 〕
 
-### `01` &nbsp; Occipital Adaptive Engine
+</div><br/><table>
+<tr>
+<td width="50%" valign="top">Artificial Intelligence
 
-Self-healing AI middleware that **learns without forgetting** — combining Elastic Weight Consolidation and LoRA fine-tuning to prevent catastrophic forgetting across distributed deployments. Inspired by human neuroplasticity. Built for healthcare, defense, energy, and finance.
+- Enterprise AI systems
+- AI agents and multi-agent systems
+- Retrieval-Augmented Generation
+- Machine learning pipelines
+- Deep learning architectures
+- Explainable AI
+- Model evaluation and observability
+- AI security and governance
 
-```
-Input Stream  ──▶  [ EWC Core + LoRA ]  ──▶  FAISS Vector Store  ──▶  Inference
-                          ↓
-              Adaptive Memory  ──▶  No Forgetting  ──▶  Distributed Deploy
-```
+</td>
+<td width="50%" valign="top">Systems Engineering
 
-`Python` `PyTorch` `EWC · LoRA` `FAISS` `FastAPI` `Kubernetes`
+- Distributed systems
+- Event-driven architectures
+- Mission-critical systems
+- Microservices
+- Multicloud architecture
+- Resilience and fault tolerance
+- System integration
+- High-availability design
 
-<br/>
+</td>
+</tr><tr>
+<td width="50%" valign="top">Software Engineering
 
----
+- Backend engineering
+- API design
+- Enterprise applications
+- Domain-driven architecture
+- Asynchronous processing
+- Real-time communication
+- Testing and documentation
+- Secure software development
 
-### `02` &nbsp; Sovereign AI Security Platform
+</td>
+<td width="50%" valign="top">Data & Security
 
-Three systems. One mission. **AI-IDS** with sub-second multi-vector classification. **Threat Modeler** mapped to MITRE ATT&CK with 80% faster cycle times. **DFIR Pulse** — forensic event correlation with cryptographic chain-of-custody.
+- Data engineering
+- ETL and ELT pipelines
+- Streaming platforms
+- Operational analytics
+- Cybersecurity architecture
+- Threat intelligence
+- DFIR
+- Industrial and OT security
 
-```
-[ AI-IDS ]        ──▶  Sub-second Classification  ──▶  MITRE ATT&CK
-[ Threat Model ]  ──▶  80% Faster Cycles          ──▶  Automated Playbooks
-[ DFIR Pulse ]    ──▶  Forensic Correlation       ──▶  Cryptographic CoC
-```
+</td>
+</tr>
+</table><br/>---
 
-`Python` `Go` `Kafka` `TimescaleDB` `Elasticsearch` `MITRE ATT&CK`
+<br/><div align="center">〔 Selected Systems & Research 〕
 
-<br/>
+</div><br/>"01"   OR Meridian — Global Multicloud Control Plane
 
----
+A research and engineering platform for coordinating workloads, policies, observability and resilience across AWS, Google Cloud and Microsoft Azure.
 
-### `03` &nbsp; Banco Master — Fraud Intelligence Platform
+The project explores distributed control planes, failure isolation, workload placement, security policies and multicloud operational intelligence.
 
-Multi-layer financial risk pipeline for a **Tier-1 Brazilian bank**. Kinesis → Glue → Redshift → SageMaker, surfacing real-time SHAP fraud scores. Fully compliant with LGPD, SOX, and Basel III.
+                          OR MERIDIAN
+                               │
+             ┌─────────────────┼─────────────────┐
+             │                 │                 │
+            AWS               GCP              Azure
+             │                 │                 │
+             └──────────▶ Global Control Plane ◀┘
+                               │
+          Policy · Telemetry · Security · Resilience · Automation
 
-```
-Kinesis Streams  ──▶  AWS Glue  ──▶  Redshift  ──▶  SageMaker  ──▶  SHAP Scores
-                  LGPD  ·  SOX Auditable  ·  Basel III Risk Framework
-```
+"Python" "Go" "C#" ".NET" "Kubernetes" "Terraform" "OpenTelemetry" "Kafka"
 
-`AWS Kinesis` `Glue` `Redshift` `SageMaker` `SHAP`
+<br/>---
 
-<br/>
+"02"   SOVRANET — Mission-Critical Systems Platform
 
----
+A systems architecture initiative focused on operational resilience, secure communications and continuity for high-stakes environments.
 
-### `04` &nbsp; AXIOM — Multi-Agent Intelligence Platform
+Its research is divided into three major verticals:
 
-Concurrent autonomous agents for **financial analysis, real estate valuation, and legal intelligence** — under a shared reasoning layer. Zero manual intervention at inference time.
+SOVRANET
+   ├── Financial Grid
+   ├── Maritime Systems
+   └── Critical Infrastructure
 
-```
-[ Financial Agent ]  [ Real Estate Agent ]  [ Legal Intelligence Agent ]
-                    ──▶  Shared Reasoning Layer  ──▶
-          LangChain  ·  Neo4j  ·  Redis  ·  PostgreSQL
-```
+The Financial Grid explores integration between payment systems, fraud detection, Open Finance, treasury, auditing, operational continuity and regulatory controls.
 
-`LangChain` `FastAPI` `Neo4j` `Redis` `PostgreSQL`
+The broader platform studies distributed systems, sovereign infrastructure, secure edge computing and mission continuity.
 
-<br/><br/>
+"C#" ".NET" "C++" "Rust" "Python" "Java" "Kafka" "NATS" "PostgreSQL" "Kubernetes"
 
----
+<br/>---
 
-<br/>
+"03"   ORS Graph
 
-<div align="center">
+A graph-oriented intelligence architecture for representing relationships between entities, systems, events, risks and operational dependencies.
 
-# 〔 ADMAV Digital Ecosystem 〕
+The project explores knowledge graphs, graph analytics, semantic search and AI-assisted investigation.
 
-**⛪ Multi-unit church network · Brazil · 7+ congregations**
+Entities ──▶ Relationships ──▶ Graph Intelligence ──▶ Decisions
+   │               │                   │
+People          Events              Risk Models
+Systems         Assets              AI Agents
 
-*Ministry at the precision of enterprise software.*
+"Python" "Neo4j" "FastAPI" "Graph Analytics" "Embeddings" "RAG"
 
-</div>
+<br/>---
 
-<br/>
+"04"   ORStream Grad
 
-<div align="center">
+A distributed data and event-streaming research project focused on ingestion, processing, observability and real-time intelligence.
 
-| System | Role |
-|---|---|
-| **Nexo** | Multi-agent church management — operations, members, scheduling |
-| **Kairos** | AI content creation for branch media teams — RAG + Vector Search |
-| **Yafah** | AI business consultant for congregation entrepreneurs |
-| **Site Oficial** | Institutional web platform for Sede and all filiais |
-| + 5 systems | Member onboarding · WhatsApp automation · Volunteers · Discipleship · Finance |
+Data Sources
+     │
+     ▼
+Event Ingestion ──▶ Stream Processing ──▶ Storage ──▶ Intelligence Layer
+     │                    │                  │
+   Kafka               Consumers         Analytics
 
-</div>
+"Java" "Python" "Kafka" "Redis" "PostgreSQL" "Docker" "OpenTelemetry"
 
-<br/><br/>
+<br/>---
 
----
+"05"   RP Jardim — Education Operations Platform
 
-<br/>
+An integrated business and operational management platform developed for an education company.
 
-<div align="center">
+The system connects multiple operational areas:
 
-# 〔 Stack 〕
+People Management
+        │
+Supplies & Inventory
+        │
+Financial Operations
+        │
+School Administration
+        │
+Kitchen & Consumption Monitoring
+        │
+Operational Intelligence
 
-<br/>
+The platform is designed to centralize information, automate processes, reduce operational friction and support management decisions.
 
-[![skillicons](https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,go,rust,ts,react,nextjs&theme=dark)](https://skillicons.dev)
+"Python" "FastAPI" "Node.js" "TypeScript" "React" "MongoDB" "SQL"
 
-<br/>
+<br/>---
 
-[![skillicons](https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,terraform,docker,kafka,postgres,mongodb&theme=dark)](https://skillicons.dev)
+"06"   Zelo Jardim
 
-<br/>
+A digital platform focused on improving communication, routines, services and the experience of families within the educational environment.
 
-`LangChain` &nbsp;·&nbsp; `SHAP` &nbsp;·&nbsp; `MLflow` &nbsp;·&nbsp; `Neo4j` &nbsp;·&nbsp; `Redis` &nbsp;·&nbsp; `MITRE ATT&CK` &nbsp;·&nbsp; `Zero Trust` &nbsp;·&nbsp; `DFIR`
+The system is designed as a progressive web application connected to the broader operational ecosystem.
 
-</div>
+"TypeScript" "React" "PWA" "Turso" "APIs" "Automation"
 
-<br/><br/>
+<br/>---
 
----
+"07"   ADMAV Digital Ecosystem
 
-<br/>
+A technology ecosystem developed for a multi-unit church network in Brazil.
 
-<div align="center">
+The initiative brings together systems for:
 
-# 〔 GitHub 〕
+- Visitor and member onboarding
+- Administrative management
+- Discipleship and training
+- Volunteer coordination
+- Communication
+- WhatsApp automation
+- AI-generated welcome experiences
+- Content production
+- Branch and congregation management
 
-<br/>
+Visitor Registration
+        │
+        ▼
+Central Database ──▶ Administrative Panel
+        │
+        ├──▶ WhatsApp Welcome
+        ├──▶ Leadership Distribution
+        ├──▶ Discipleship Journey
+        └──▶ Operational Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=maykonlincolnusa&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=86868b&icon_color=30D158&border_radius=10" width="47%"/>
+"Python" "FastAPI" "React" "MongoDB" "Google Cloud Run" "OpenAI" "Z-API"
+
+<br/>---
+
+"08"   Watchtower Cities & SIGAP
+
+Research platforms for geospatial and public-data intelligence.
+
+These projects explore the relationship between:
+
+- Public safety
+- Urban violence
+- Economic impact
+- Territorial risk
+- Public infrastructure
+- Macroeconomic and microeconomic indicators
+- Geospatial and temporal patterns
+
+Public APIs ──▶ ETL Pipelines ──▶ Geospatial Database
+                                       │
+                         Statistical & AI Analysis
+                                       │
+                         Operational Intelligence
+
+"Python" "Pandas" "GeoPandas" "PostGIS" "Machine Learning" "Data Engineering"
+
+<br/>---
+
+<br/><div align="center">〔 Technology Stack 〕
+
+</div><br/>Languages
+
+<div align="center">""Languages" (https://skillicons.dev/icons?i=python,cs,dotnet,cpp,java,go,rust,ts,js&theme=dark)" (https://skillicons.dev)
+
+</div><br/>Python · C# · .NET · C++ · Java · Go · Rust · TypeScript · JavaScript · SQL
+
+<br/>AI, Machine Learning & Data
+
+<div align="center">""AI" (https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark)" (https://skillicons.dev)
+
+</div><br/>PyTorch · TensorFlow · Scikit-learn · OpenCV · NumPy · Pandas
+LangChain · LangGraph · LlamaIndex · RAG · Embeddings · Vector Search
+XGBoost · SHAP · MLflow · ONNX · Deep Learning · MLOps
+
+<br/>Backend & Software Engineering
+
+<div align="center">""Backend" (https://skillicons.dev/icons?i=fastapi,nodejs,spring,express,graphql,redis&theme=dark)" (https://skillicons.dev)
+
+</div><br/>FastAPI · ASP.NET Core · Node.js · Spring · REST APIs · WebSockets
+Microservices · Event-Driven Architecture · Domain-Driven Design
+
+<br/>Frontend & Applications
+
+<div align="center">""Frontend" (https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark)" (https://skillicons.dev)
+
+</div><br/>React · Next.js · Progressive Web Apps · Responsive Interfaces
+Administrative Dashboards · Operational Applications
+
+<br/>Cloud, Infrastructure & Distributed Systems
+
+<div align="center">""Cloud" (https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,docker,terraform,cloudflare,kafka&theme=dark)" (https://skillicons.dev)
+
+</div><br/>AWS · Google Cloud · Microsoft Azure · Kubernetes · Docker
+Terraform · Cloudflare · Railway · Kafka · NATS · Distributed Systems
+Cloud Run · Serverless · CI/CD · Infrastructure as Code
+
+<br/>Databases & Storage
+
+<div align="center">""Databases" (https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis,elasticsearch&theme=dark)" (https://skillicons.dev)
+
+</div><br/>PostgreSQL · PostGIS · MongoDB · MySQL · SQLite · Turso
+Redis · Elasticsearch · TimescaleDB · Neo4j · Vector Databases
+
+<br/>Cybersecurity & Mission-Critical Engineering
+
+MITRE ATT&CK · MITRE ATT&CK for ICS · Zero Trust · DFIR
+Threat Intelligence · Secure Software Architecture · PKI
+Identity and Access Management · OT/ICS Security · SCADA
+NIST SP 800-82 · IEC 62443 · NIST AI RMF
+Observability · Resilience · Fault Tolerance · Mission Continuity
+
+<br/>---
+
+<br/><div align="center">〔 Engineering Principles 〕
+
+</div><br/>01. Understand the operation before designing the system.
+
+02. Architecture must reflect business reality.
+
+03. Reliability is a feature.
+
+04. Security must be built into the system, not added afterward.
+
+05. Data without context is not intelligence.
+
+06. AI should support decisions, not create unnecessary complexity.
+
+07. Documentation is part of the engineering process.
+
+08. Systems must be designed for failure, recovery and evolution.
+
+09. Technology must generate measurable operational value.
+
+10. Faith, responsibility and excellence should guide execution.
+
+<br/>---
+
+<br/><div align="center">〔 Currently Exploring 〕
+
+</div><br/>Area| Current Focus
+C# & .NET| Enterprise platforms, financial systems and distributed services
+C++| High-performance, embedded and mission-critical systems
+Java| Event-driven systems, streaming platforms and enterprise applications
+Python| AI, automation, data engineering and backend systems
+Distributed Systems| Resilience, consensus, messaging and fault tolerance
+Deep Learning| Neural architectures, computer vision and model deployment
+Cloud Architecture| AWS, GCP, Azure and multicloud control planes
+ICS/OT Security| Industrial protocols, SCADA and critical infrastructure
+Data Engineering| Streaming, ETL, analytics and operational intelligence
+
+<br/>---
+
+<br/><div align="center">〔 GitHub Activity 〕
+
+<br/><img src="https://github-readme-stats.vercel.app/api?username=maykonlincolnusa&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=86868b&icon_color=30D158&border_radius=10" width="47%"/>
 &nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com/?user=maykonlincolnusa&theme=transparent&hide_border=true&background=000000&ring=30D158&fire=30D158&currStreakLabel=30D158&sideLabels=86868b&dates=3a3a3c&sideNums=ffffff&currStreakNum=ffffff&border_radius=10" width="47%"/>
+<img src="https://streak-stats.demolab.com/?user=maykonlincolnusa&theme=transparent&hide_border=true&background=000000&ring=30D158&fire=30D158&currStreakLabel=30D158&sideLabels=86868b&dates=3a3a3c&sideNums=ffffff&currStreakNum=ffffff&border_radius=10" width="47%"/><br/><br/>
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=maykonlincolnusa&bg_color=000000&color=3a3a3c&line=30D158&point=ffffff&area=true&hide_border=true&area_color=30D15812&radius=6" width="100%"/>
-
-</div>
-
-<br/><br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maykonlincolnusa&bg_color=000000&color=86868b&line=30D158&point=ffffff&area=true&hide_border=true&area_color=30D15812&radius=6" width="100%"/></div><br/><br/>
 
 ---
 
-<br/>
+<br/><div align="center">〔 Let's Build 〕
 
-<div align="center">
+I am interested in projects involving artificial intelligence, enterprise systems, distributed architecture, cloud infrastructure, cybersecurity, operational intelligence and digital transformation.
 
-**Available for engagements where precision matters.**
+<br/>""Website" (https://img.shields.io/badge/Visit%20My%20Website-000000?style=for-the-badge&logo=safari&logoColor=30D158)" (https://maykonlincoln.com)  
+""LinkedIn" (https://img.shields.io/badge/Connect%20on%20LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=30D158)" (https://linkedin.com/in/maykonlincolnusa)  
+""GitHub" (https://img.shields.io/badge/Explore%20My%20Projects-000000?style=for-the-badge&logo=github&logoColor=30D158)" (https://github.com/maykonlincolnusa)
 
-<br/>
+</div><br/><br/>
 
-[![Schedule a Call](https://img.shields.io/badge/Schedule%20a%20Call-000000?style=for-the-badge&logo=safari&logoColor=30D158)](https://maykonlincoln.com)&nbsp;&nbsp;
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=30D158)](https://linkedin.com/in/maykonlincolnusa)
-
-</div>
-
-<br/><br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a1a0a,100:000000&height=160&section=footer&fontSize=22&fontColor=30D158&text=%F0%9F%87%A7%F0%9F%87%B7%20%20Brazil%20%20%20%C2%B7%20%20%20%F0%9F%87%BA%F0%9F%87%B8%20%20United%20States%20%20%20%C2%B7%20%20%20Engineered%20for%20permanence.&fontAlignY=52&animation=fadeIn" width="100%"/>
-</div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:071507,100:000000&height=170&section=footer&fontSize=20&fontColor=30D158&text=%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%C2%B7%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B7%20Engineering%20systems%20that%20create%20real%20operational%20value.&fontAlignY=52&animation=fadeIn" width="100%"/></div>
