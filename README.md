@@ -80,7 +80,7 @@ Distributed and secure systems designed for complex environments.
 
 </td>
 </tr>
-</table>---
+</table>
 
 <div align="center">The System Behind the Systems
 
