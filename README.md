@@ -43,7 +43,7 @@ My professional journey includes experience across Brazil, Texas and Miami, comb
 
 This profile is the engineering notebook behind that journey.
 
----
+
 
 <div align="center">What We Build
 
@@ -117,7 +117,7 @@ The objective is not to add AI everywhere.
 
 The objective is to build an operation that can observe, understand, decide and respond.
 
----
+
 
 <div align="center">Systems in Motion
 
@@ -137,7 +137,7 @@ AZURE ─────────┘
 
 "Distributed Systems" "Multicloud" "Kubernetes" "Terraform" "Kafka" "OpenTelemetry"
 
----
+
 
 "02" SOVRANET
 
@@ -167,7 +167,7 @@ Resilient edge systems, secure data exchange and operational continuity.
 </tr>
 </table>"C#" ".NET" "C++" "Rust" "Java" "Python" "Kafka" "NATS" "PostgreSQL"
 
----
+
 
 "03" RP Jardim
 
@@ -195,7 +195,7 @@ The platform connects:
 
 "Python" "FastAPI" "Node.js" "TypeScript" "React" "MongoDB"
 
----
+
 
 "04" Zelo Jardim
 
@@ -207,7 +207,7 @@ It is designed to connect communication, routines, services and interactions ins
 
 "React" "TypeScript" "PWA" "Turso" "Automation"
 
----
+
 
 "05" ADMAV Digital Ecosystem
 
@@ -230,7 +230,7 @@ Registration ──▶ Central Platform ──▶ Leadership
 
 "Python" "FastAPI" "React" "MongoDB" "Google Cloud Run" "OpenAI" "Z-API"
 
----
+
 
 "06" Watchtower Cities & SIGAP
 
@@ -329,7 +329,7 @@ They are different tools for building the same thing:
 
 «Systems capable of operating in complex environments.»
 
----
+
 
 <div align="center">Engineering Philosophy
 
