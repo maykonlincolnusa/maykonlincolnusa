@@ -38,7 +38,7 @@ alt="Engineering focus"
 
 <br/><sub>
 BRAZIL &nbsp;·&nbsp; TEXAS &nbsp;·&nbsp; MIAMI
-</sub></div>---
+</sub></div>
 
 <div align="center">We build systems that understand the operation around them.
 
@@ -58,7 +58,7 @@ My professional journey also includes experience connected to organizations in T
 
 This GitHub is where those ideas become architecture, code and working systems.
 
----
+
 
 <div align="center">The Operating Thesis
 
@@ -99,7 +99,7 @@ Use intelligence to improve the next action.
 Structured data becomes intelligence.
 Intelligence becomes better execution.»
 
-</div>---
+</div>
 
 <div align="center">The Architecture Behind the Work
 
@@ -141,7 +141,7 @@ Intelligence becomes better execution.»
 
 The goal is to create an operation capable of understanding itself.
 
-</div>---
+</div>
 
 <div align="center">Active Systems
 
@@ -314,7 +314,7 @@ The goal is to understand not only where events happen, but how territory, infra
                                        │
                                        ▼
                      SOFTWARE · AI · DATA · SECURITY · CLOUD
-</pre>---
+</pre>
 
 <div align="center">Engineering Surface
 
@@ -426,7 +426,7 @@ Python          → AI, automation, data engineering and backend systems
 Deep Learning   → perception, computer vision and intelligent models
 Multicloud      → global control, resilience and workload coordination
 ICS / OT        → industrial systems and critical infrastructure
-</pre>---
+</pre>
 
 <div align="center">Principles
 
@@ -455,7 +455,7 @@ The best system is not the most complex. It is the one that makes the operation 
 
 </td>
 </tr>
-</table>---
+</table>
 
 <div align="center">GitHub Signal
 
@@ -479,7 +479,7 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=maykonlincol
 alt="GitHub activity graph"
 />
 
-</div>---
+</div>
 
 <div align="center">Building the intelligence layer between operations and decisions.
 
