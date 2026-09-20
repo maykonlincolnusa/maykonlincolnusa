@@ -1,67 +1,88 @@
 <div align="center">Maykon Lincoln
 
-AI Systems · Research Engineering · Distributed Systems
+Research Engineering · AI Systems · Distributed Systems
 
-Building and studying reliable intelligent systems.
+Building reliable intelligent systems and the infrastructure required to study them.
 
-"Website" (https://maykonlincoln.com) · "LinkedIn" (https://linkedin.com/in/maykonlincolnusa) · "Research" (https://github.com/maykonlincolnusa/OR-Research-Long-Horizon-Agent-Reliability)
+"OR System" (https://orsystemtech.com.br) · "LinkedIn" (https://linkedin.com/in/maykonlincolnusa) · "Research" (https://github.com/maykonlincolnusa/OR-Research-Long-Horizon-Agent-Reliability)
 
 </div>---
 
-Research
+I am a software and AI engineer working across machine learning, distributed systems, data infrastructure, and reliability.
 
-LongHorizon
+My current research focuses on the behavior of autonomous AI systems over extended tasks — particularly how memory, planning, context, tool use, and system architecture affect reliability and recovery.
 
-Reliability of long-horizon AI agents.
-
-«How do memory, planning, context management, and tool use affect agent reliability over extended tasks?»
-
-LongHorizon is an experimental research platform for studying software agents under controlled, reproducible conditions.
-
-Current work focuses on:
-
-"evaluation" · "memory" · "planning" · "tool use" · "failure recovery" · "experiment reproducibility"
-
-→ "OR Research — Long-Horizon Agent Reliability" (https://github.com/maykonlincolnusa/OR-Research-Long-Horizon-Agent-Reliability)
+Much of my work sits at the boundary between research and engineering: formulate a question, build the system, instrument it, measure its behavior, and study where it fails.
 
 ---
 
-Selected Systems
+Current Research
 
-<table>
-<tr>
-<td width="33%" valign="top">OR Meridian
+"LongHorizon" (https://github.com/maykonlincolnusa/OR-Research-Long-Horizon-Agent-Reliability)
 
-Distributed control plane for multicloud coordination, policy, observability, and resilience.
+Long-horizon software-agent reliability and evaluation.
 
-</td><td width="33%" valign="top">SOVRANET
+LongHorizon is a research platform for studying autonomous software-engineering agents under controlled and reproducible conditions.
 
-Architecture for resilient distributed systems in critical environments.
+The current work explores:
 
-</td><td width="33%" valign="top">Eixo
+"agent evaluation" · "memory" · "planning" · "context" · "tool use" · "failure recovery" · "reproducibility"
 
-Operational software integrating data, automation, AI, and real-world workflows.
+The platform includes a frozen pilot benchmark based on real SWE-bench Verified tasks, registered experimental protocols, deterministic evaluation contracts, telemetry, experiment lineage, and analytical infrastructure.
 
-</td>
-</tr>
-</table>---
+«How do agent architecture and model configuration change reliability, cost, and recoverability over long-running tasks?»
 
-Interests
+---
 
-AI agents · AI evaluation · ML systems · distributed systems · reliability · data-intensive systems · observability
+Selected Work
+
+"Argos" (https://github.com/maykonlincolnusa/Argos)
+
+A provenance-first intelligence graph platform for connecting heterogeneous information while preserving source, context, and analytical traceability.
+
+"SOVRANET" (https://github.com/maykonlincolnusa/Sovranet)
+
+Distributed infrastructure for environments that must continue operating across connected, degraded, and disconnected conditions.
+
+"PROMETHEUS-FORGE" (https://github.com/maykonlincolnusa/PROMETHEUS-FORGE)
+
+Operational intelligence for physical assets, combining condition, risk, readiness, and accountable engineering decisions.
+
+"Eixo" (https://github.com/maykonlincolnusa/Eixo-jardim-ERP)
+
+A production distributed operations ecosystem connecting applications, services, data workflows, automation, and decision support inside a real organization.
+
+"AERON" (https://github.com/maykonlincolnusa/AERON)
+
+Aircraft health intelligence architecture for telemetry processing, fault detection, explainable health scoring, and predictive maintenance.
+
+---
+
+Research Interests
+
+AI Systems
+Agents · Evaluation · Reliability · Memory · Planning · ML Systems
+
+Systems
+Distributed Systems · Fault Tolerance · Observability · Event-Driven Architecture · Data-Intensive Systems
+
+Applied Research
+Operational Intelligence · Resilient Infrastructure · Decision Systems · Critical Environments
 
 ---
 
 Engineering
 
-"Python" · "PyTorch" · "C#/.NET" · "C++" · "Go" · "TypeScript"
+"Python" · "PyTorch" · "C# / .NET" · "C++" · "Java" · "Go" · "TypeScript"
 
 "PostgreSQL" · "Kafka" · "NATS" · "Docker" · "Kubernetes" · "OpenTelemetry"
 
 ---
 
-<div align="center">Researching the systems behind increasingly autonomous intelligence.
+<div align="center">Researching how intelligent systems behave when the task becomes long, distributed, and uncertain.
 
-<sub>Rio de Janeiro, Brazil</sub>
+Rio de Janeiro, Brazil
+
+"orsystemtech.com.br" (https://orsystemtech.com.br)
 
 </div>
