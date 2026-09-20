@@ -1,87 +1,67 @@
-Maykon Lincoln
+<div align="center">Maykon Lincoln
 
-Research Engineer — AI Systems & Distributed Systems
+AI Systems · Research Engineering · Distributed Systems
 
-I work on intelligent systems, with a current focus on AI agents, evaluation, reliability, and distributed infrastructure.
+Building and studying reliable intelligent systems.
 
-My work combines research engineering with production software: formulating technical questions, building experimental systems, measuring behavior, and studying failure under real-world constraints.
+"Website" (https://maykonlincoln.com) · "LinkedIn" (https://linkedin.com/in/maykonlincolnusa) · "Research" (https://github.com/maykonlincolnusa/OR-Research-Long-Horizon-Agent-Reliability)
 
-Based in Rio de Janeiro, Brazil.
+</div>---
 
-"Website" (https://maykonlincoln.com) · "LinkedIn" (https://linkedin.com/in/maykonlincolnusa)
+Research
 
----
+LongHorizon
 
-Current Research
+Reliability of long-horizon AI agents.
 
-Long-Horizon Agent Reliability
+«How do memory, planning, context management, and tool use affect agent reliability over extended tasks?»
 
-«How can autonomous AI agents remain reliable as tasks become longer, stateful, and increasingly dependent on memory, planning, context, and tool use?»
+LongHorizon is an experimental research platform for studying software agents under controlled, reproducible conditions.
 
-I am building an experimental platform for studying the reliability of software-engineering agents over long-horizon tasks.
+Current work focuses on:
 
-The work focuses on:
-
-- agent evaluation
-- memory and context
-- planning and tool use
-- failure propagation and recovery
-- reproducibility
-- cost and latency
-- experiment lineage
+"evaluation" · "memory" · "planning" · "tool use" · "failure recovery" · "experiment reproducibility"
 
 → "OR Research — Long-Horizon Agent Reliability" (https://github.com/maykonlincolnusa/OR-Research-Long-Horizon-Agent-Reliability)
 
 ---
 
-Research Interests
+Selected Systems
 
-"AI Systems" · "Agentic AI" · "LLM Evaluation" · "ML Systems"
+<table>
+<tr>
+<td width="33%" valign="top">OR Meridian
 
-"Distributed Systems" · "Reliability" · "Data-Intensive Systems"
+Distributed control plane for multicloud coordination, policy, observability, and resilience.
 
-"Experimentation" · "Observability" · "Resilient Infrastructure"
+</td><td width="33%" valign="top">SOVRANET
 
----
+Architecture for resilient distributed systems in critical environments.
 
-Selected Work
+</td><td width="33%" valign="top">Eixo
 
-"LongHorizon" (https://github.com/maykonlincolnusa/OR-Research-Long-Horizon-Agent-Reliability)
-Experimental infrastructure for long-horizon agent reliability and evaluation.
+Operational software integrating data, automation, AI, and real-world workflows.
 
-OR Meridian
-Distributed multicloud control plane for coordination, policy, observability, and resilience.
+</td>
+</tr>
+</table>---
 
-SOVRANET
-Research architecture for resilient distributed systems in critical environments.
+Interests
 
-Eixo
-Production operational platform integrating software, data, automation, and AI in a real organization.
+AI agents · AI evaluation · ML systems · distributed systems · reliability · data-intensive systems · observability
 
 ---
 
 Engineering
 
-I primarily work across:
+"Python" · "PyTorch" · "C#/.NET" · "C++" · "Go" · "TypeScript"
 
-Python · PyTorch · C#/.NET · C++ · Go · TypeScript
-
-with distributed and data infrastructure including:
-
-PostgreSQL · Kafka · NATS · Docker · Kubernetes · OpenTelemetry · AWS · Google Cloud
+"PostgreSQL" · "Kafka" · "NATS" · "Docker" · "Kubernetes" · "OpenTelemetry"
 
 ---
 
-Current Direction
+<div align="center">Researching the systems behind increasingly autonomous intelligence.
 
-I am interested in the boundary between machine learning and systems research — particularly the infrastructure and evaluation methods required to make increasingly autonomous AI systems reliable.
+<sub>Rio de Janeiro, Brazil</sub>
 
-Current questions include:
-
-- How should long-horizon agents be evaluated?
-- How does memory change reliability over extended execution?
-- How do agents recover from incorrect intermediate decisions?
-- When does multi-agent coordination improve or degrade performance?
-- Which distributed-systems principles transfer to autonomous AI systems?
-
-My current work explores these questions through implementation and reproducible experimentation.
+</div>
