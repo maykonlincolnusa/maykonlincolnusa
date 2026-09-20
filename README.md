@@ -6,7 +6,7 @@ Building reliable intelligent systems and the infrastructure required to study t
 
 "OR System" (https://orsystemtech.com.br) · "LinkedIn" (https://linkedin.com/in/maykonlincolnusa) · "Research" (https://github.com/maykonlincolnusa/OR-Research-Long-Horizon-Agent-Reliability)
 
-</div>---
+</div>
 
 I am a software and AI engineer working across machine learning, distributed systems, data infrastructure, and reliability.
 
