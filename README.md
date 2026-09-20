@@ -1,123 +1,87 @@
 Maykon Lincoln
 
-AI Research Engineer · AI Systems · Distributed Systems
+Research Engineer — AI Systems & Distributed Systems
 
-Rio de Janeiro, Brazil
+I work on intelligent systems, with a current focus on AI agents, evaluation, reliability, and distributed infrastructure.
 
-I build and study intelligent systems, with a current focus on agent reliability, evaluation, distributed AI infrastructure, and long-horizon autonomous systems.
+My work combines research engineering with production software: formulating technical questions, building experimental systems, measuring behavior, and studying failure under real-world constraints.
 
-My background spans software engineering, data systems, cloud infrastructure, automation, and production AI. I am increasingly focused on research engineering: turning technical questions into reproducible experiments, evaluation frameworks, and working systems.
+Based in Rio de Janeiro, Brazil.
 
-Currently, I also serve as Partner and Director of Operations & Technology at an education company in Rio de Janeiro, where I work directly with production systems, operational processes, data, automation, and infrastructure.
+"Website" (https://maykonlincoln.com) · "LinkedIn" (https://linkedin.com/in/maykonlincolnusa)
 
 ---
 
-Research
+Current Research
 
 Long-Horizon Agent Reliability
 
-My current research explores a central question:
+«How can autonomous AI agents remain reliable as tasks become longer, stateful, and increasingly dependent on memory, planning, context, and tool use?»
 
-«How do memory, planning, context management, and model architecture affect the reliability of AI agents over long-running tasks?»
+I am building an experimental platform for studying the reliability of software-engineering agents over long-horizon tasks.
 
-I am building an experimental platform for evaluating software agents across:
+The work focuses on:
 
-- task completion and reliability
-- memory and context strategies
+- agent evaluation
+- memory and context
 - planning and tool use
 - failure propagation and recovery
-- latency, token usage, and cost
-- reproducibility and experiment lineage
+- reproducibility
+- cost and latency
+- experiment lineage
 
-Current project:
-"OR Research — Long-Horizon Agent Reliability" (https://github.com/maykonlincolnusa/OR-Research-Long-Horizon-Agent-Reliability)
-
-The project currently includes a benchmark based on software-engineering tasks, registered experimental protocols, deterministic evaluation, telemetry, holdout splits, and reproducible experiment infrastructure.
+→ "OR Research — Long-Horizon Agent Reliability" (https://github.com/maykonlincolnusa/OR-Research-Long-Horizon-Agent-Reliability)
 
 ---
 
 Research Interests
 
-AI Systems
+"AI Systems" · "Agentic AI" · "LLM Evaluation" · "ML Systems"
 
-- Agentic systems
-- LLM evaluation
-- Long-horizon agents
-- Memory and planning
-- AI reliability
+"Distributed Systems" · "Reliability" · "Data-Intensive Systems"
 
-Systems
-
-- Distributed systems
-- Fault tolerance
-- Observability
-- Data-intensive systems
-- ML infrastructure
-
-Applied Research
-
-- Operational AI
-- Critical systems
-- Geospatial intelligence
-- Resilient infrastructure
+"Experimentation" · "Observability" · "Resilient Infrastructure"
 
 ---
 
 Selected Work
 
-"OR Research — Long-Horizon Agent Reliability" (https://github.com/maykonlincolnusa/OR-Research-Long-Horizon-Agent-Reliability)
-
-Experimental infrastructure for studying reliability, memory, planning, tool use, and recovery in long-horizon AI agents.
+"LongHorizon" (https://github.com/maykonlincolnusa/OR-Research-Long-Horizon-Agent-Reliability)
+Experimental infrastructure for long-horizon agent reliability and evaluation.
 
 OR Meridian
-
-Research and engineering around multicloud control planes, distributed coordination, policy enforcement, observability, and infrastructure resilience.
+Distributed multicloud control plane for coordination, policy, observability, and resilience.
 
 SOVRANET
-
-Architecture research for resilient and mission-critical distributed systems across financial, maritime, and critical infrastructure environments.
+Research architecture for resilient distributed systems in critical environments.
 
 Eixo
-
-Production operational platform connecting finance, administration, people, data, automation, and intelligent systems inside a real education organization.
+Production operational platform integrating software, data, automation, and AI in a real organization.
 
 ---
 
 Engineering
 
-Primary languages:
+I primarily work across:
 
-"Python" · "C# / .NET" · "C++" · "Java" · "Go" · "TypeScript"
+Python · PyTorch · C#/.NET · C++ · Go · TypeScript
 
-Current technical focus:
+with distributed and data infrastructure including:
 
-"PyTorch" · "LLMs" · "Agentic Systems" · "Distributed Systems" · "Evaluation" · "Data Systems" · "Cloud Infrastructure"
-
-Infrastructure and systems:
-
-"AWS" · "Google Cloud" · "Docker" · "Kubernetes" · "Kafka" · "NATS" · "PostgreSQL" · "OpenTelemetry"
+PostgreSQL · Kafka · NATS · Docker · Kubernetes · OpenTelemetry · AWS · Google Cloud
 
 ---
 
 Current Direction
 
-I am particularly interested in research at the intersection of:
+I am interested in the boundary between machine learning and systems research — particularly the infrastructure and evaluation methods required to make increasingly autonomous AI systems reliable.
 
-machine learning × systems × reliability
+Current questions include:
 
-including questions such as:
+- How should long-horizon agents be evaluated?
+- How does memory change reliability over extended execution?
+- How do agents recover from incorrect intermediate decisions?
+- When does multi-agent coordination improve or degrade performance?
+- Which distributed-systems principles transfer to autonomous AI systems?
 
-- How should long-running AI agents be evaluated?
-- How does memory affect agent reliability over extended execution?
-- How should agents recover after incorrect actions?
-- When does multi-agent coordination help or hurt?
-- How can distributed-systems principles improve autonomous AI systems?
-- How do we make AI experiments reproducible and auditable?
-
-My goal is to contribute to the engineering and research required to make increasingly autonomous AI systems measurable, reliable, and useful in real environments.
-
----
-
-Contact
-
-"LinkedIn" (https://linkedin.com/in/maykonlincolnusa) · "GitHub" (https://github.com/maykonlincolnusa) · "OR System" (https://maykonlincoln.com)
+My current work explores these questions through implementation and reproducible experimentation.
