@@ -1,473 +1,575 @@
 <div align="center"><img
 width="100%"
-src="https://capsule-render.vercel.app/api?type=venom&amp;color=0:030303,45:071B10,70:0C3320,100:030303&amp;height=300&amp;section=header&amp;text=MAYKON%20LINCOLN&amp;fontSize=74&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;animation=fadeIn&amp;desc=Intelligent%20systems%20for%20operations%2C%20resilience%20and%20scale.&amp;descAlignY=58&amp;descSize=17&amp;descColor=39D353"
+src="https://capsule-render.vercel.app/api?type=venom&color=0:030303,45:071B10,70:0C3320,100:030303&height=300&section=header&text=MAYKON%20LINCOLN&fontSize=74&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=AI%20Research%20Engineering%20%C2%B7%20AI%20Systems%20%C2%B7%20Distributed%20Systems&descAlignY=58&descSize=17&descColor=39D353"
 alt="Maykon Lincoln"
 />
 
 <a href="https://maykonlincoln.com">
   <img
-    src="https://img.shields.io/badge/OR%20SYSTEM-050505?style=for-the-badge&amp;logo=safari&amp;logoColor=39D353"
+    src="https://img.shields.io/badge/OR%20SYSTEM-050505?style=for-the-badge&logo=safari&logoColor=39D353"
     alt="OR System"
   />
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/maykonlincolnusa">
   <img
-    src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&amp;logo=linkedin&amp;logoColor=39D353"
+    src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=39D353"
     alt="LinkedIn"
   />
 </a>
 &nbsp;
-<a href="https://github.com/maykonlincolnusa">
+<a href="https://github.com/maykonlincolnusa?tab=repositories">
   <img
-    src="https://img.shields.io/badge/PROJECTS-050505?style=for-the-badge&amp;logo=github&amp;logoColor=39D353"
-    alt="GitHub projects"
+    src="https://img.shields.io/badge/RESEARCH%20%26%20SYSTEMS-050505?style=for-the-badge&logo=github&logoColor=39D353"
+    alt="Research and systems"
   />
 </a>
 &nbsp;
 <img
-  src="https://komarev.com/ghpvc/?username=maykonlincolnusa&amp;style=for-the-badge&amp;color=050505&amp;label=PROFILE+SIGNAL"
+  src="https://komarev.com/ghpvc/?username=maykonlincolnusa&style=for-the-badge&color=050505&label=PROFILE+SIGNAL"
   alt="Profile views"
 /><br/><br/>
 
 <img
 width="100%"
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=16&amp;duration=3000&amp;pause=900&amp;color=39D353&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=1000&amp;height=42&amp;lines=AI+INFRASTRUCTURE+%C2%B7+DISTRIBUTED+SYSTEMS+%C2%B7+OPERATIONAL+SOFTWARE;From+fragmented+operations+to+structured+intelligence.;Building+across+Python%2C+C%23%2C+.NET%2C+C%2B%2B%2C+Java+and+TypeScript.;Engineering+for+education%2C+finance+and+critical+environments.;Observe.+Orchestrate.+Adapt."
-alt="Engineering focus"
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=900&color=39D353&center=true&vCenter=true&repeat=true&width=1000&height=42&lines=AI+RESEARCH+ENGINEERING+%C2%B7+AGENTIC+SYSTEMS+%C2%B7+DISTRIBUTED+SYSTEMS;Studying+reliability+in+long-horizon+AI+agents.;From+research+questions+to+reproducible+experiments.;Building+AI+systems+for+real-world+operational+environments.;Measure.+Understand.+Engineer."
+alt="Research focus"
 />
 
 <br/><sub>
-BRAZIL &nbsp;·&nbsp; TEXAS &nbsp;·&nbsp; MIAMI
-</sub></div>
+RIO DE JANEIRO, BRAZIL &nbsp;·&nbsp; AI RESEARCH ENGINEERING &nbsp;·&nbsp; SYSTEMS
+</sub></div>---
 
-<div align="center">We build systems that understand the operation around them.
+<div align="center">Research Engineer building and studying intelligent systems
 
-Not isolated features.
-Not artificial intelligence without context.
-Not architecture that exists only in diagrams.
+</div>I work at the intersection of artificial intelligence, distributed systems, data infrastructure and real-world operations.
 
-Systems that observe, organize, decide and evolve.
+My current trajectory is increasingly focused on AI Research Engineering: designing experiments, building evaluation infrastructure and studying how intelligent systems behave under long-running, uncertain and operationally realistic conditions.
 
-</div><br/>I work where software, artificial intelligence, data and real operations converge.
+I am particularly interested in:
 
-In practice, that means transforming fragmented processes into platforms capable of connecting people, information, infrastructure and decisions.
+- long-horizon AI agents
+- agent reliability and failure recovery
+- memory and context architectures
+- planning and tool use
+- LLM evaluation
+- AI infrastructure
+- distributed execution
+- observability and experiment lineage
+- resilient systems
+- machine learning systems
 
-I currently operate as a Partner and Director of Operations & Technology in an education company in Rio de Janeiro. This places my engineering work directly inside the reality it is supposed to improve: costs, people, processes, failures, deadlines and continuous operation.
+My approach combines two disciplines:
 
-My professional journey also includes experience connected to organizations in Texas and Miami, alongside the systems and technology initiatives I develop in Brazil.
+Research asks what is true.
+Engineering asks whether it can actually work.
 
-This GitHub is where those ideas become architecture, code and working systems.
+I am interested in the space where both questions must be answered.
 
+---
 
+<div align="center">OR Research
 
-<div align="center">The Operating Thesis
+<sub>Experimental systems for understanding intelligent software.</sub>
 
-</div><table>
+</div>Current research direction
+
+My primary research effort is focused on the reliability of autonomous AI systems operating over extended tasks.
+
+Instead of treating an AI agent as a single prompt-response interaction, I am interested in what happens when the system must:
+
+"plan → execute → observe → remember → recover → adapt"
+
+across long-running workflows.
+
+The research question is:
+
+«How do memory architecture, planning strategy, context management and model choice affect the reliability, cost and recoverability of long-horizon AI agents?»
+
+---
+
+<table>
 <tr>
-<td width="33%" align="center" valign="top">01 — OBSERVE
+<td width="100%" valign="top">OR Research — Long-Horizon Agent Reliability
 
-Capture what is happening across the operation.
+Research engineering platform for evaluating long-horizon software agents.
 
-<br/>"Events"
-"Processes"
-"People"
-"Infrastructure"
+The project provides an experimental environment for studying agent behavior across real software-engineering tasks.
 
-</td>
-<td width="33%" align="center" valign="top">02 — ORCHESTRATE
+Research areas include:
 
-Connect systems, workflows and decisions.
+- memory architecture
+- planning strategies
+- context degradation
+- tool-use reliability
+- failure propagation
+- recovery behavior
+- multi-agent coordination
+- latency and computational cost
+- experiment reproducibility
 
-<br/>"APIs"
-"Automation"
-"Data Pipelines"
-"Distributed Services"
+The platform is designed around measurable evidence rather than demonstrations.
 
-</td>
-<td width="33%" align="center" valign="top">03 — ADAPT
+Current research infrastructure includes:
 
-Use intelligence to improve the next action.
+"Benchmarking" · "Registered Protocols" · "Holdout Tasks"
+"Deterministic Evaluation" · "Experiment Lineage"
+"Telemetry" · "Failure Analysis" · "Data Warehousing"
 
-<br/>"AI Agents"
-"Machine Learning"
-"Analytics"
-"Operational Feedback"
+Repository
 
-</td>
-</tr>
-</table><br/><div align="center">«Raw operation becomes structured data.
-Structured data becomes intelligence.
-Intelligence becomes better execution.»
-
-</div>
-
-<div align="center">The Architecture Behind the Work
-
-</div><pre>
-┌─────────────────────────────────────────────────────────────────────────┐
-│                           OPERATIONAL REALITY                           │
-│                                                                         │
-│       people · processes · finance · assets · services · decisions      │
-└───────────────────────────────────┬─────────────────────────────────────┘
-                                    │
-                                    ▼
-┌─────────────────────────────────────────────────────────────────────────┐
-│                          DIGITAL OPERATIONS                             │
-│                                                                         │
-│        applications · APIs · workflows · automation · integrations      │
-└───────────────────────────────────┬─────────────────────────────────────┘
-                                    │
-                                    ▼
-┌─────────────────────────────────────────────────────────────────────────┐
-│                            DATA FOUNDATION                              │
-│                                                                         │
-│        ingestion · events · pipelines · storage · context · governance  │
-└───────────────────────────────────┬─────────────────────────────────────┘
-                                    │
-                                    ▼
-┌─────────────────────────────────────────────────────────────────────────┐
-│                          INTELLIGENCE LAYER                             │
-│                                                                         │
-│       agents · RAG · machine learning · analytics · computer vision     │
-└───────────────────────────────────┬─────────────────────────────────────┘
-                                    │
-                                    ▼
-┌─────────────────────────────────────────────────────────────────────────┐
-│                     RESILIENT INFRASTRUCTURE                            │
-│                                                                         │
-│       cloud · security · observability · policy · fault tolerance       │
-└─────────────────────────────────────────────────────────────────────────┘
-</pre><div align="center">The goal is not to place AI everywhere.
-
-The goal is to create an operation capable of understanding itself.
-
-</div>
-
-<div align="center">Active Systems
-
-<sub>Platforms, research architectures and operational products currently shaping the ecosystem.</sub>
-
-</div><br/><table>
-<tr>
-<td width="50%" valign="top">OR Meridian
-
-Global Multicloud Control Plane
-
-A distributed control-plane architecture for coordinating workloads, policies, telemetry and resilience across:
-
-- Amazon Web Services
-- Google Cloud
-- Microsoft Azure
-
-The system explores how a global platform can evaluate cloud state, detect failures, enforce policy and coordinate workloads across independent environments.
-
-<br/>Core signals
-
-"Multicloud" "Distributed Control"
-"Policy Engine" "Observability"
-"Workload Coordination" "Resilience"
-
-<br/>Engineering
-
-"Python" "Go" "C#" ".NET"
-"Kubernetes" "Terraform"
-"Kafka" "OpenTelemetry"
-
-</td>
-<td width="50%" valign="top">SOVRANET
-
-Infrastructure for Systems That Cannot Stop
-
-A mission-critical architecture initiative for secure communications, operational continuity and resilient infrastructure.
-
-Its research is divided into three connected domains:
-
-<br/>Financial Grid
-
-Payments, fraud, Open Finance, treasury and continuity.
-
-Maritime Systems
-
-Secure coordination, operational data and distributed missions.
-
-Critical Infrastructure
-
-Resilient edge systems, security and mission continuity.
-
-<br/>Engineering
-
-"C#" ".NET" "C++" "Rust"
-"Java" "Python" "Kafka"
-"NATS" "PostgreSQL" "Kubernetes"
-
-</td>
-</tr>
-</table><br/><table>
-<tr>
-<td width="50%" valign="top">RP Jardim
-
-An Operating System for Education
-
-A platform that connects the operational structure of an education company.
-
-It brings finance, inventory, administration, people, school operations and management intelligence into a shared environment.
-
-<br/>Connected operation
-
-"Finance" "Inventory"
-"People" "School Administration"
-"Kitchen Monitoring" "Analytics"
-
-<br/>Engineering
-
-"Python" "FastAPI"
-"Node.js" "TypeScript"
-"React" "MongoDB" "SQL"
-
-</td>
-<td width="50%" valign="top">Zelo Jardim
-
-The Experience Layer Around the School
-
-A digital environment designed around the daily experience of families.
-
-Zelo connects communication, routines, services and interactions with the wider operational platform.
-
-It represents the layer where internal systems become a clear and useful experience for the people using them.
-
-<br/>Product layer
-
-"Family Experience" "Communication"
-"Routines" "Services" "Automation"
-
-<br/>Engineering
-
-"TypeScript" "React"
-"PWA" "Turso" "APIs"
-
-</td>
-</tr>
-</table><br/><table>
-<tr>
-<td width="50%" valign="top">ADMAV Digital Ecosystem
-
-Technology for People and Community
-
-A connected ecosystem developed for a multi-unit church network.
-
-The system supports the complete journey from first contact to community integration.
-
-<br/>Connected journey
-
-"Visitor Registration"
-"Leadership Distribution"
-"WhatsApp Automation"
-"Member Onboarding"
-"Discipleship"
-"Volunteer Coordination"
-
-<br/>Engineering
-
-"Python" "FastAPI" "React"
-"MongoDB" "Cloud Run"
-"OpenAI" "Z-API"
-
-</td>
-<td width="50%" valign="top">Watchtower Cities & SIGAP
-
-Intelligence for Understanding Territory
-
-Platforms designed to connect public data, geospatial information, economics and artificial intelligence.
-
-The goal is to understand not only where events happen, but how territory, infrastructure, violence and economic effects influence one another.
-
-<br/>Intelligence surface
-
-"Public Data" "Geospatial Analysis"
-"Temporal Analysis" "Economic Impact"
-"Machine Learning" "Decision Support"
-
-<br/>Engineering
-
-"Python" "Pandas" "GeoPandas"
-"PostGIS" "ETL" "Machine Learning"
+https://github.com/maykonlincolnusa/OR-Research-Long-Horizon-Agent-Reliability
 
 </td>
 </tr>
 </table>---
 
-<div align="center">System Map
+<div align="center">Research Method
 
-</div><pre>
-                                   OR SYSTEM
-                                       │
-        ┌──────────────────────────────┼──────────────────────────────┐
-        │                              │                              │
-        ▼                              ▼                              ▼
- INTELLIGENT OPERATIONS        RESILIENT SYSTEMS            DATA INTELLIGENCE
-        │                              │                              │
-        ├── RP Jardim                  ├── OR Meridian                ├── Watchtower
-        ├── Zelo Jardim                ├── SOVRANET                   ├── SIGAP
-        └── ADMAV Ecosystem            └── Critical Systems          └── Graph Systems
-        │                              │                              │
-        └──────────────────────────────┼──────────────────────────────┘
-                                       │
-                                       ▼
-                     SOFTWARE · AI · DATA · SECURITY · CLOUD
-</pre>
+</div>My goal is not simply to build increasingly complex AI applications.
 
-<div align="center">Engineering Surface
+The goal is to build systems that make technical questions testable.
 
-<sub>A multi-language and multi-platform stack selected according to the system being built.</sub>
+RESEARCH QUESTION
+        │
+        ▼
+     HYPOTHESIS
+        │
+        ▼
+EXPERIMENT DESIGN
+        │
+        ▼
+CONTROLLED EXECUTION
+        │
+        ▼
+     TELEMETRY
+        │
+        ▼
+   EVALUATION
+        │
+        ▼
+STATISTICAL ANALYSIS
+        │
+        ▼
+     FINDINGS
+        │
+        ▼
+NEW RESEARCH QUESTION
 
-</div><br/>Languages
+A result should be traceable to the environment that produced it.
 
-<div align="center"><img
-src="https://skillicons.dev/icons?i=py,cs,dotnet,cpp,java,go,rust,ts,js&amp;theme=dark&amp;perline=9"
-alt="Python, C Sharp, .NET, C++, Java, Go, Rust, TypeScript and JavaScript"
-/>
+For experiments, I care about capturing:
 
-</div><br/>Intelligence & Data
+benchmark version
+task source
+configuration hash
+model configuration
+agent architecture
+execution budget
+tool traces
+evaluator version
+test output
+failure state
+latency
+token usage
+cost
+final verdict
 
-<div align="center"><img
-src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,postgres,mongodb,redis,elasticsearch&amp;theme=dark&amp;perline=8"
-alt="Artificial intelligence and data technologies"
-/>
+The objective is reproducible research engineering.
 
-<br/><br/>
-
-"LangChain" · "LangGraph" · "LlamaIndex" · "RAG"
-"Embeddings" · "Vector Search" · "Knowledge Graphs"
-"NumPy" · "Pandas" · "XGBoost" · "SHAP" · "MLflow" · "ONNX"
-
-</div><br/>Applications & Services
-
-<div align="center"><img
-src="https://skillicons.dev/icons?i=fastapi,nodejs,spring,react,nextjs,graphql,html,css,tailwind&amp;theme=dark&amp;perline=9"
-alt="Application and service technologies"
-/>
-
-<br/><br/>
-
-"ASP.NET Core" · "REST APIs" · "WebSockets"
-"Microservices" · "Event-Driven Architecture"
-"Domain-Driven Design" · "Progressive Web Apps"
-
-</div><br/>Cloud & Infrastructure
-
-<div align="center"><img
-src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,cloudflare,kafka,prometheus,grafana&amp;theme=dark&amp;perline=10"
-alt="Cloud and infrastructure technologies"
-/>
-
-<br/><br/>
-
-"Google Cloud Run" · "Railway" · "NATS"
-"OpenTelemetry" · "Infrastructure as Code"
-"Multicloud Architecture" · "Distributed Systems"
-
-</div><br/>Engineering Environment
-
-<div align="center"><img
-src="https://skillicons.dev/icons?i=git,github,githubactions,linux,vscode,visualstudio,postman,bash,powershell&amp;theme=dark&amp;perline=9"
-alt="Engineering environment"
-/>
-
-</div>---
+---
 
 <div align="center">Research Vector
 
 </div><table>
-<tr>
-<td width="25%" align="center" valign="top">AI Systems
+<tr><td width="25%" align="center" valign="top">Agentic AI
 
-Agents
-RAG
-Deep Learning
-Computer Vision
-Explainability
+Long-Horizon Agents
+Memory Systems
+Planning
+Tool Use
+Multi-Agent Systems
+Failure Recovery
 
-</td>
-<td width="25%" align="center" valign="top">Distributed Systems
+</td><td width="25%" align="center" valign="top">AI Evaluation
+
+Benchmarks
+Evals
+Ablation Studies
+Failure Taxonomy
+Reliability Metrics
+Experiment Design
+
+</td><td width="25%" align="center" valign="top">AI Systems
+
+Inference Systems
+Distributed Execution
+Observability
+Model Gateways
+Data Pipelines
+AI Infrastructure
+
+</td><td width="25%" align="center" valign="top">Distributed Systems
 
 Messaging
 Coordination
 Streaming
 Fault Tolerance
-Observability
+Consistency
+Resilience
 
-</td>
-<td width="25%" align="center" valign="top">Critical Systems
+</td></tr>
+</table>---
 
-ICS / OT
-SCADA
-Financial Systems
-Secure Edge
-Mission Continuity
+<div align="center">From Research to Operational Systems
 
-</td>
-<td width="25%" align="center" valign="top">Data Systems
+</div>My research direction grew from building software inside environments where systems cannot be evaluated only by whether they compile.
 
-ETL / ELT
-Geospatial Data
-Knowledge Graphs
-Analytics
-Real-Time Processing
+They must survive:
 
-</td>
-</tr>
-</table><br/><pre>
-CURRENT TRAJECTORY
+"failure" · "latency" · "cost" · "people" · "uncertainty" · "continuous operation"
 
-C# / .NET       → enterprise platforms and financial infrastructure
-C++             → high-performance and mission-critical systems
-Java            → event-driven platforms and distributed services
-Python          → AI, automation, data engineering and backend systems
-Deep Learning   → perception, computer vision and intelligent models
-Multicloud      → global control, resilience and workload coordination
-ICS / OT        → industrial systems and critical infrastructure
-</pre>
+I currently work as a Partner and Director of Operations & Technology in an education organization in Rio de Janeiro.
 
-<div align="center">Principles
+That environment gives me direct exposure to the operational consequences of software architecture:
 
-</div><table>
-<tr>
-<td width="50%" valign="top">Understand before automating
+- financial processes
+- people and workflows
+- automation
+- integrations
+- failures
+- data quality
+- infrastructure constraints
+- decision support
 
-A system should begin with a real understanding of the operation, not with a technology looking for a problem.
+This experience strongly influences how I approach AI research.
 
-</td>
-<td width="50%" valign="top">Build for the real environment
+I am especially interested in intelligent systems that operate outside controlled demos.
 
-Architecture must account for failure, cost, people, constraints and continuous change.
+---
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">Intelligence requires context
+<div align="center">Selected Systems
 
-Data only becomes useful when it is connected to meaning, decisions and operational reality.
+<sub>Engineering work that informs my research in AI, distributed systems and operational software.</sub>
 
-</td>
-<td width="50%" valign="top">Engineering must create leverage
+</div><table><tr><td width="50%" valign="top">OR Meridian
 
-The best system is not the most complex. It is the one that makes the operation more capable.
+Global Multicloud Control Plane
 
-</td>
-</tr>
-</table>
+Distributed control-plane architecture for coordinating infrastructure across:
+
+- AWS
+- Google Cloud
+- Microsoft Azure
+
+Research and engineering themes:
+
+"Distributed Control"
+"Policy Engines"
+"Observability"
+"Failure Detection"
+"Workload Coordination"
+"Resilience"
+
+Core technologies:
+
+"Python" "Go" "C#" ".NET"
+"Kubernetes" "Terraform"
+"Kafka" "OpenTelemetry"
+
+</td><td width="50%" valign="top">SOVRANET
+
+Resilient Infrastructure for Critical Systems
+
+Architecture initiative exploring secure and fault-tolerant systems across:
+
+- financial infrastructure
+- maritime environments
+- critical infrastructure
+- distributed edge systems
+
+Research themes:
+
+"Fault Tolerance"
+"Secure Coordination"
+"Distributed Infrastructure"
+"Mission Continuity"
+
+Core technologies:
+
+"C#" ".NET" "C++" "Rust"
+"Java" "Python" "Kafka" "NATS"
+"PostgreSQL" "Kubernetes"
+
+</td></tr><tr><td width="50%" valign="top">Eixo / RP Jardim
+
+Operational Software for Education
+
+A real-world operational platform connecting:
+
+- finance
+- inventory
+- administration
+- people
+- school operations
+- analytics
+- automation
+
+The system acts as a production environment for studying how software, data and intelligent automation interact with real operational constraints.
+
+Core technologies:
+
+"Python" "FastAPI"
+"Node.js" "TypeScript"
+"React" "MongoDB" "SQL"
+
+</td><td width="50%" valign="top">Watchtower / SIGAP
+
+Geospatial and Operational Intelligence
+
+Systems designed to connect:
+
+- public data
+- geospatial information
+- temporal patterns
+- economic variables
+- machine learning
+- decision-support workflows
+
+Research themes:
+
+"Spatial Intelligence"
+"Data Engineering"
+"Temporal Analysis"
+"ML Systems"
+
+Core technologies:
+
+"Python" "Pandas" "GeoPandas"
+"PostGIS" "ETL" "Machine Learning"
+
+</td></tr></table>---
+
+<div align="center">AI Systems Architecture
+
+</div>┌─────────────────────────────────────────────────────────────────────────┐
+│                           RESEARCH QUESTION                             │
+│                                                                         │
+│            hypothesis · benchmark · protocol · evaluation               │
+└───────────────────────────────────┬─────────────────────────────────────┘
+                                    │
+                                    ▼
+┌─────────────────────────────────────────────────────────────────────────┐
+│                            AGENT SYSTEM                                 │
+│                                                                         │
+│             planning · memory · context · tools · execution             │
+└───────────────────────────────────┬─────────────────────────────────────┘
+                                    │
+                                    ▼
+┌─────────────────────────────────────────────────────────────────────────┐
+│                         EXECUTION LAYER                                 │
+│                                                                         │
+│         runners · sandboxes · gateways · queues · coordination          │
+└───────────────────────────────────┬─────────────────────────────────────┘
+                                    │
+                                    ▼
+┌─────────────────────────────────────────────────────────────────────────┐
+│                           EVIDENCE LAYER                                │
+│                                                                         │
+│           telemetry · traces · metrics · events · test output           │
+└───────────────────────────────────┬─────────────────────────────────────┘
+                                    │
+                                    ▼
+┌─────────────────────────────────────────────────────────────────────────┐
+│                           EVALUATION                                    │
+│                                                                         │
+│        reliability · recovery · cost · latency · failure analysis       │
+└───────────────────────────────────┬─────────────────────────────────────┘
+                                    │
+                                    ▼
+┌─────────────────────────────────────────────────────────────────────────┐
+│                         RESEARCH FINDINGS                               │
+│                                                                         │
+│            analysis · limitations · conclusions · new questions         │
+└─────────────────────────────────────────────────────────────────────────┘
+
+---
+
+<div align="center">Engineering Surface
+
+<sub>Tools are selected according to the research question and system constraints.</sub>
+
+</div>Languages
+
+<div align="center"><img
+src="https://skillicons.dev/icons?i=py,cs,dotnet,cpp,java,go,rust,ts,js&theme=dark&perline=9"
+alt="Programming languages"
+/>
+
+</div><br/>Machine Learning & AI
+
+<div align="center"><img
+src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark&perline=8"
+alt="Machine learning technologies"
+/>
+
+<br/><br/>
+
+"PyTorch" · "Transformers" · "LLMs" · "Agentic Systems"
+"LangChain" · "LangGraph" · "RAG"
+"Embeddings" · "Vector Search" · "Knowledge Graphs"
+"NumPy" · "Pandas" · "XGBoost" · "SHAP"
+"MLflow" · "ONNX"
+
+</div><br/>Data Systems
+
+<div align="center"><img
+src="https://skillicons.dev/icons?i=postgres,mongodb,redis,elasticsearch,kafka&theme=dark&perline=8"
+alt="Data systems"
+/>
+
+<br/><br/>
+
+"Data Pipelines" · "Streaming" · "Event-Driven Systems"
+"Experiment Data" · "Telemetry" · "Data Lineage"
+"ETL / ELT" · "Geospatial Data"
+
+</div><br/>Distributed Systems & Infrastructure
+
+<div align="center"><img
+src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,cloudflare,prometheus,grafana&theme=dark&perline=9"
+alt="Infrastructure technologies"
+/>
+
+<br/><br/>
+
+"NATS" · "Kafka" · "OpenTelemetry"
+"Distributed Services" · "Fault Tolerance"
+"Observability" · "Infrastructure as Code"
+"Multicloud Systems"
+
+</div><br/>Applications & Services
+
+<div align="center"><img
+src="https://skillicons.dev/icons?i=fastapi,nodejs,spring,react,nextjs,graphql&theme=dark&perline=8"
+alt="Application technologies"
+/>
+
+<br/><br/>
+
+"ASP.NET Core" · "REST APIs" · "WebSockets"
+"Microservices" · "Domain-Driven Design"
+"Event-Driven Architecture"
+
+</div>---
+
+<div align="center">Current Technical Trajectory
+
+</div>AI ENGINEERING
+      │
+      ├──► AI Systems
+      │
+      ├──► Agentic Systems
+      │
+      ├──► Evaluation & Benchmarks
+      │
+      └──► Machine Learning Systems
+                  │
+                  ▼
+        AI RESEARCH ENGINEERING
+                  │
+      ┌───────────┼───────────┐
+      ▼           ▼           ▼
+  RELIABILITY   SYSTEMS    EXPERIMENTATION
+      │           │           │
+      ▼           ▼           ▼
+ Long-Horizon  Distributed  Reproducible
+   Agents       Systems      Research
+
+Current areas of deeper study:
+
+Machine Learning
+Deep Learning
+Probability & Statistics
+Reinforcement Learning
+Distributed Systems
+Data-Intensive Systems
+Microservices
+Experiment Design
+AI Evaluation
+AI Reliability
+
+---
+
+<div align="center">Research Principles
+
+</div><table><tr><td width="50%" valign="top">Measure before claiming
+
+A system demonstrating a behavior once is not evidence that the behavior is reliable.
+
+Research requires repeatability, controls and measurable outcomes.
+
+</td><td width="50%" valign="top">Reliability is a first-class property
+
+Intelligence without reliability has limited operational value.
+
+Agents must be evaluated under failure, uncertainty and long-running execution.
+
+</td></tr><tr><td width="50%" valign="top">Architecture affects behavior
+
+Memory, context, planning, tools and infrastructure are not implementation details.
+
+They influence what intelligent systems are capable of doing.
+
+</td><td width="50%" valign="top">Experiments must be reproducible
+
+Every result should be connected to the configuration, model, environment, evaluator and evidence that produced it.
+
+</td></tr><tr><td width="50%" valign="top">Build to understand
+
+Implementation is part of the research process.
+
+Building a system often reveals questions that architecture diagrams cannot.
+
+</td><td width="50%" valign="top">Understand failure
+
+Failures are not noise to hide.
+
+They are data about the limits of the system.
+
+</td></tr></table>---
+
+<div align="center">Research Questions I Care About
+
+</div>«How reliable are AI agents when tasks require hundreds of sequential decisions?»
+
+«How should persistent memory be designed without introducing context contamination?»
+
+«When does multi-agent coordination improve performance, and when does it increase failure complexity?»
+
+«How does planning strategy affect recovery after an incorrect action?»
+
+«How should long-horizon agents be evaluated beyond simple task completion?»
+
+«What infrastructure is required to make AI experiments reproducible at scale?»
+
+«How can distributed-systems principles improve the reliability of autonomous AI systems?»
+
+---
 
 <div align="center">GitHub Signal
 
 <img
 height="170"
-src="https://github-readme-stats.vercel.app/api?username=maykonlincolnusa&amp;show_icons=true&amp;hide_border=true&amp;bg_color=030303&amp;title_color=FFFFFF&amp;text_color=8B949E&amp;icon_color=39D353&amp;border_radius=10"
+src="https://github-readme-stats.vercel.app/api?username=maykonlincolnusa&show_icons=true&hide_border=true&bg_color=030303&title_color=FFFFFF&text_color=8B949E&icon_color=39D353&border_radius=10"
 alt="GitHub statistics"
 />
+
  
+
 <img
 height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykonlincolnusa&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=030303&amp;title_color=FFFFFF&amp;text_color=8B949E&amp;border_radius=10"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykonlincolnusa&layout=compact&langs_count=8&hide_border=true&bg_color=030303&title_color=FFFFFF&text_color=8B949E&border_radius=10"
 alt="Programming languages"
 />
 
@@ -475,46 +577,45 @@ alt="Programming languages"
 
 <img
 width="100%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=maykonlincolnusa&amp;bg_color=030303&amp;color=8B949E&amp;line=39D353&amp;point=FFFFFF&amp;area=true&amp;hide_border=true&amp;area_color=071B10&amp;radius=10"
+src="https://github-readme-activity-graph.vercel.app/graph?username=maykonlincolnusa&bg_color=030303&color=8B949E&line=39D353&point=FFFFFF&area=true&hide_border=true&area_color=071B10&radius=10"
 alt="GitHub activity graph"
 />
 
-</div>
+</div>---
 
-<div align="center">Building the intelligence layer between operations and decisions.
+<div align="center">Building systems to understand intelligent systems.
 
-<br/>ENTERPRISE AI  ·  DISTRIBUTED SYSTEMS  ·  OPERATIONAL SOFTWARE
-DATA ENGINEERING  ·  CLOUD ARCHITECTURE  ·  CYBERSECURITY
+AI RESEARCH ENGINEERING
+AGENTIC SYSTEMS · AI EVALUATION · DISTRIBUTED SYSTEMS
+ML SYSTEMS · RELIABILITY · DATA INFRASTRUCTURE
 
-<br/><br/>
+<br/><a href="https://github.com/maykonlincolnusa/OR-Research-Long-Horizon-Agent-Reliability">
+  <img
+    src="https://img.shields.io/badge/EXPLORE%20OR%20RESEARCH-030303?style=for-the-badge&logo=github&logoColor=39D353"
+    alt="Explore OR Research"
+  />
+</a> 
 
 <a href="https://maykonlincoln.com">
   <img
-    src="https://img.shields.io/badge/EXPLORE%20OR%20SYSTEM-030303?style=for-the-badge&amp;logo=safari&amp;logoColor=39D353"
-    alt="Explore OR System"
+    src="https://img.shields.io/badge/OR%20SYSTEM-030303?style=for-the-badge&logo=safari&logoColor=39D353"
+    alt="OR System"
   />
-</a>
-&nbsp;
+</a> 
+
 <a href="https://linkedin.com/in/maykonlincolnusa">
   <img
-    src="https://img.shields.io/badge/CONNECT-030303?style=for-the-badge&amp;logo=linkedin&amp;logoColor=39D353"
-    alt="Connect on LinkedIn"
-  />
-</a>
-&nbsp;
-<a href="https://github.com/maykonlincolnusa?tab=repositories">
-  <img
-    src="https://img.shields.io/badge/VIEW%20SYSTEMS-030303?style=for-the-badge&amp;logo=github&amp;logoColor=39D353"
-    alt="View systems"
+    src="https://img.shields.io/badge/CONNECT-030303?style=for-the-badge&logo=linkedin&logoColor=39D353"
+    alt="LinkedIn"
   />
 </a><br/><br/>
 
 <sub>
-ENGINEERED IN RIO DE JANEIRO<br/>
-BUILT ACROSS BRAZIL AND THE UNITED STATES
+ENGINEERED IN RIO DE JANEIRO, BRAZIL<br/>
+RESEARCHING AI SYSTEMS, RELIABILITY AND DISTRIBUTED INTELLIGENCE
 </sub><img
 width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:030303,45:071B10,70:0C3320,100:030303&amp;height=150&amp;section=footer&amp;animation=fadeIn"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:030303,45:071B10,70:0C3320,100:030303&height=150&section=footer&animation=fadeIn"
 alt="Footer"
 />
 
